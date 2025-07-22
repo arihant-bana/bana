@@ -1,0 +1,1273 @@
+State,District,Sowing_Timing,Irrigation_Status,Recommended_Varieties
+Punjab,Amritsar,Timely,Irrigated,HPW 349; MACS 6478
+Punjab,Amritsar,Timely,Restricted,PBW 343; RAJ 4037
+Punjab,Amritsar,Timely,Rainfed,MACS 6478; NIAW 917
+Punjab,Amritsar,Late,Irrigated,PBW 771; VL 892
+Punjab,Amritsar,Late,Restricted,PBW 833; CG 1029
+Punjab,Amritsar,Very Late,Irrigated,PBW 757; HI 1621
+Punjab,Ludhiana,Timely,Irrigated,HS 562; UAS 304
+Punjab,Ludhiana,Timely,Restricted,UAS 304; NIAW 917
+Punjab,Ludhiana,Timely,Rainfed,PBW 343; HD 3086
+Punjab,Ludhiana,Late,Irrigated,PBW 771; PBW 833
+Punjab,Ludhiana,Late,Restricted,VL 892; PBW 771
+Punjab,Ludhiana,Very Late,Irrigated,HD 3298; HD 3271
+Punjab,Patiala,Timely,Irrigated,RAJ 4037; HD 2967
+Punjab,Patiala,Timely,Restricted,HD 3086; HPW 349
+Punjab,Patiala,Timely,Rainfed,HPW 349; RAJ 4037
+Punjab,Patiala,Late,Irrigated,PBW 833; VL 892
+Punjab,Patiala,Late,Restricted,DBW 316; PBW 771
+Punjab,Patiala,Very Late,Irrigated,HI 1621; HD 3271
+Punjab,Gurdaspur,Timely,Irrigated,UAS 304; HPW 349
+Punjab,Gurdaspur,Timely,Restricted,UAS 304; NIAW 917
+Punjab,Gurdaspur,Timely,Rainfed,MACS 6478; NIAW 917
+Punjab,Gurdaspur,Late,Irrigated,PBW 771; DBW 316
+Punjab,Gurdaspur,Late,Restricted,HD 2932; VL 892
+Punjab,Gurdaspur,Very Late,Irrigated,HD 3271; HI 1621
+Punjab,Barnala,Timely,Irrigated,GW 322; HD 3086
+Punjab,Barnala,Timely,Restricted,PBW 343; HPW 349
+Punjab,Barnala,Timely,Rainfed,RAJ 4037; MACS 6478
+Punjab,Barnala,Late,Irrigated,VL 892; DBW 316
+Punjab,Barnala,Late,Restricted,CG 1029; DBW 316
+Punjab,Barnala,Very Late,Irrigated,HD 3298; PBW 757
+Punjab,Bathinda,Timely,Irrigated,Lok 1; HPW 349
+Punjab,Bathinda,Timely,Restricted,Lok 1; PBW 343
+Punjab,Bathinda,Timely,Rainfed,GW 322; HD 2967
+Punjab,Bathinda,Late,Irrigated,PBW 771; PBW 833
+Punjab,Bathinda,Late,Restricted,PBW 752; PBW 833
+Punjab,Bathinda,Very Late,Irrigated,HD 3271; PBW 757
+Punjab,Faridkot,Timely,Irrigated,HS 562; GW 322
+Punjab,Faridkot,Timely,Restricted,MACS 6478; Lok 1
+Punjab,Faridkot,Timely,Rainfed,UAS 304; RAJ 4037
+Punjab,Faridkot,Late,Irrigated,PBW 833; CG 1029
+Punjab,Faridkot,Late,Restricted,CG 1029; HD 2932
+Punjab,Faridkot,Very Late,Irrigated,HD 3271; HD 3298
+Punjab,Fatehgarh Sahib,Timely,Irrigated,HPW 349; GW 322
+Punjab,Fatehgarh Sahib,Timely,Restricted,Lok 1; HD 2967
+Punjab,Fatehgarh Sahib,Timely,Rainfed,Lok 1; NIAW 917
+Punjab,Fatehgarh Sahib,Late,Irrigated,PBW 833; HD 2932
+Punjab,Fatehgarh Sahib,Late,Restricted,CG 1029; HD 2932
+Punjab,Fatehgarh Sahib,Very Late,Irrigated,HI 1621; HD 3271
+Punjab,Fazilka,Timely,Irrigated,GW 322; HS 562
+Punjab,Fazilka,Timely,Restricted,PBW 343; HD 3086
+Punjab,Fazilka,Timely,Rainfed,RAJ 4037; Lok 1
+Punjab,Fazilka,Late,Irrigated,HD 2932; PBW 833
+Punjab,Fazilka,Late,Restricted,PBW 752; CG 1029
+Punjab,Fazilka,Very Late,Irrigated,HD 3271; PBW 757
+Punjab,Ferozepur,Timely,Irrigated,HD 3086; PBW 343
+Punjab,Ferozepur,Timely,Restricted,HPW 349; MACS 6478
+Punjab,Ferozepur,Timely,Rainfed,RAJ 4037; UAS 304
+Punjab,Ferozepur,Late,Irrigated,HD 2932; PBW 833
+Punjab,Ferozepur,Late,Restricted,PBW 752; PBW 833
+Punjab,Ferozepur,Very Late,Irrigated,PBW 757; HI 1621
+Punjab,Hoshiarpur,Timely,Irrigated,PBW 343; HD 2967
+Punjab,Hoshiarpur,Timely,Restricted,NIAW 917; PBW 343
+Punjab,Hoshiarpur,Timely,Rainfed,RAJ 4037; HS 562
+Punjab,Hoshiarpur,Late,Irrigated,VL 892; PBW 752
+Punjab,Hoshiarpur,Late,Restricted,PBW 833; PBW 771
+Punjab,Hoshiarpur,Very Late,Irrigated,HD 3271; HI 1621
+Punjab,Jalandhar,Timely,Irrigated,HPW 349; Lok 1
+Punjab,Jalandhar,Timely,Restricted,HPW 349; NIAW 917
+Punjab,Jalandhar,Timely,Rainfed,PBW 343; HD 3086
+Punjab,Jalandhar,Late,Irrigated,PBW 771; VL 892
+Punjab,Jalandhar,Late,Restricted,VL 892; CG 1029
+Punjab,Jalandhar,Very Late,Irrigated,PBW 757; HD 3298
+Punjab,Kapurthala,Timely,Irrigated,RAJ 4037; HD 3086
+Punjab,Kapurthala,Timely,Restricted,UAS 304; MACS 6478
+Punjab,Kapurthala,Timely,Rainfed,PBW 343; Lok 1
+Punjab,Kapurthala,Late,Irrigated,CG 1029; VL 892
+Punjab,Kapurthala,Late,Restricted,HD 2932; VL 892
+Punjab,Kapurthala,Very Late,Irrigated,HD 3271; PBW 757
+Punjab,Mansa,Timely,Irrigated,HS 562; PBW 343
+Punjab,Mansa,Timely,Restricted,RAJ 4037; MACS 6478
+Punjab,Mansa,Timely,Rainfed,GW 322; HD 3086
+Punjab,Mansa,Late,Irrigated,HD 2932; DBW 316
+Punjab,Mansa,Late,Restricted,CG 1029; DBW 316
+Punjab,Mansa,Very Late,Irrigated,HD 3271; HD 3298
+Punjab,Moga,Timely,Irrigated,Lok 1; HS 562
+Punjab,Moga,Timely,Restricted,RAJ 4037; Lok 1
+Punjab,Moga,Timely,Rainfed,HD 2967; UAS 304
+Punjab,Moga,Late,Irrigated,PBW 833; CG 1029
+Punjab,Moga,Late,Restricted,PBW 771; PBW 833
+Punjab,Moga,Very Late,Irrigated,PBW 757; HD 3271
+Punjab,Muktsar,Timely,Irrigated,NIAW 917; PBW 343
+Punjab,Muktsar,Timely,Restricted,UAS 304; GW 322
+Punjab,Muktsar,Timely,Rainfed,NIAW 917; HD 2967
+Punjab,Muktsar,Late,Irrigated,PBW 771; DBW 316
+Punjab,Muktsar,Late,Restricted,PBW 752; HD 2932
+Punjab,Muktsar,Very Late,Irrigated,HD 3271; HI 1621
+Punjab,Pathankot,Timely,Irrigated,Lok 1; RAJ 4037
+Punjab,Pathankot,Timely,Restricted,HS 562; HPW 349
+Punjab,Pathankot,Timely,Rainfed,GW 322; MACS 6478
+Punjab,Pathankot,Late,Irrigated,PBW 771; VL 892
+Punjab,Pathankot,Late,Restricted,PBW 833; DBW 316
+Punjab,Pathankot,Very Late,Irrigated,HI 1621; HD 3298
+Punjab,Rupnagar,Timely,Irrigated,GW 322; RAJ 4037
+Punjab,Rupnagar,Timely,Restricted,GW 322; HD 3086
+Punjab,Rupnagar,Timely,Rainfed,HD 2967; HS 562
+Punjab,Rupnagar,Late,Irrigated,HD 2932; PBW 752
+Punjab,Rupnagar,Late,Restricted,CG 1029; DBW 316
+Punjab,Rupnagar,Very Late,Irrigated,PBW 757; HD 3298
+Punjab,Sangrur,Timely,Irrigated,MACS 6478; HD 2967
+Punjab,Sangrur,Timely,Restricted,GW 322; HS 562
+Punjab,Sangrur,Timely,Rainfed,UAS 304; NIAW 917
+Punjab,Sangrur,Late,Irrigated,HD 2932; PBW 771
+Punjab,Sangrur,Late,Restricted,CG 1029; PBW 833
+Punjab,Sangrur,Very Late,Irrigated,HD 3298; PBW 757
+Punjab,SAS Nagar,Timely,Irrigated,MACS 6478; GW 322
+Punjab,SAS Nagar,Timely,Restricted,HS 562; HD 2967
+Punjab,SAS Nagar,Timely,Rainfed,NIAW 917; GW 322
+Punjab,SAS Nagar,Late,Irrigated,PBW 833; HD 2932
+Punjab,SAS Nagar,Late,Restricted,HD 2932; PBW 771
+Punjab,SAS Nagar,Very Late,Irrigated,HI 1621; HD 3271
+Haryana,Ambala,Timely,Irrigated,HD 3086; GW 322
+Haryana,Ambala,Timely,Restricted,HPW 349; GW 322
+Haryana,Ambala,Timely,Rainfed,Lok 1; HS 562
+Haryana,Ambala,Late,Irrigated,VL 892; CG 1029
+Haryana,Ambala,Late,Restricted,PBW 771; PBW 752
+Haryana,Ambala,Very Late,Irrigated,HD 3298; PBW 757
+Haryana,Bhiwani,Timely,Irrigated,RAJ 4037; PBW 343
+Haryana,Bhiwani,Timely,Restricted,HS 562; NIAW 917
+Haryana,Bhiwani,Timely,Rainfed,HS 562; NIAW 917
+Haryana,Bhiwani,Late,Irrigated,PBW 752; HD 2932
+Haryana,Bhiwani,Late,Restricted,CG 1029; VL 892
+Haryana,Bhiwani,Very Late,Irrigated,HD 3298; HD 3271
+Haryana,Faridabad,Timely,Irrigated,HD 3086; UAS 304
+Haryana,Faridabad,Timely,Restricted,NIAW 917; RAJ 4037
+Haryana,Faridabad,Timely,Rainfed,UAS 304; HS 562
+Haryana,Faridabad,Late,Irrigated,CG 1029; PBW 833
+Haryana,Faridabad,Late,Restricted,VL 892; PBW 771
+Haryana,Faridabad,Very Late,Irrigated,HI 1621; HD 3298
+Haryana,Fatehabad,Timely,Irrigated,RAJ 4037; UAS 304
+Haryana,Fatehabad,Timely,Restricted,HS 562; RAJ 4037
+Haryana,Fatehabad,Timely,Rainfed,UAS 304; RAJ 4037
+Haryana,Fatehabad,Late,Irrigated,HD 2932; PBW 752
+Haryana,Fatehabad,Late,Restricted,PBW 771; HD 2932
+Haryana,Fatehabad,Very Late,Irrigated,PBW 757; HI 1621
+Haryana,Gurugram,Timely,Irrigated,UAS 304; HS 562
+Haryana,Gurugram,Timely,Restricted,UAS 304; GW 322
+Haryana,Gurugram,Timely,Rainfed,PBW 343; UAS 304
+Haryana,Gurugram,Late,Irrigated,CG 1029; PBW 752
+Haryana,Gurugram,Late,Restricted,DBW 316; CG 1029
+Haryana,Gurugram,Very Late,Irrigated,HD 3271; HI 1621
+Haryana,Hisar,Timely,Irrigated,HPW 349; UAS 304
+Haryana,Hisar,Timely,Restricted,RAJ 4037; PBW 343
+Haryana,Hisar,Timely,Rainfed,MACS 6478; HD 2967
+Haryana,Hisar,Late,Irrigated,HD 2932; CG 1029
+Haryana,Hisar,Late,Restricted,CG 1029; PBW 752
+Haryana,Hisar,Very Late,Irrigated,PBW 757; HD 3271
+Haryana,Jhajjar,Timely,Irrigated,HPW 349; HS 562
+Haryana,Jhajjar,Timely,Restricted,NIAW 917; HS 562
+Haryana,Jhajjar,Timely,Rainfed,NIAW 917; HD 2967
+Haryana,Jhajjar,Late,Irrigated,HD 2932; CG 1029
+Haryana,Jhajjar,Late,Restricted,PBW 752; PBW 833
+Haryana,Jhajjar,Very Late,Irrigated,HI 1621; HD 3298
+Haryana,Jind,Timely,Irrigated,NIAW 917; HD 2967
+Haryana,Jind,Timely,Restricted,HD 3086; HS 562
+Haryana,Jind,Timely,Rainfed,PBW 343; UAS 304
+Haryana,Jind,Late,Irrigated,VL 892; CG 1029
+Haryana,Jind,Late,Restricted,PBW 833; CG 1029
+Haryana,Jind,Very Late,Irrigated,HI 1621; HD 3271
+Haryana,Kaithal,Timely,Irrigated,RAJ 4037; HPW 349
+Haryana,Kaithal,Timely,Restricted,GW 322; MACS 6478
+Haryana,Kaithal,Timely,Rainfed,HPW 349; HD 3086
+Haryana,Kaithal,Late,Irrigated,HD 2932; PBW 771
+Haryana,Kaithal,Late,Restricted,VL 892; HD 2932
+Haryana,Kaithal,Very Late,Irrigated,HD 3271; PBW 757
+Haryana,Karnal,Timely,Irrigated,UAS 304; PBW 343
+Haryana,Karnal,Timely,Restricted,GW 322; NIAW 917
+Haryana,Karnal,Timely,Rainfed,HD 2967; HD 3086
+Haryana,Karnal,Late,Irrigated,PBW 752; PBW 771
+Haryana,Karnal,Late,Restricted,PBW 752; PBW 833
+Haryana,Karnal,Very Late,Irrigated,HD 3271; PBW 757
+Haryana,Kurukshetra,Timely,Irrigated,RAJ 4037; GW 322
+Haryana,Kurukshetra,Timely,Restricted,HPW 349; UAS 304
+Haryana,Kurukshetra,Timely,Rainfed,RAJ 4037; HS 562
+Haryana,Kurukshetra,Late,Irrigated,PBW 752; HD 2932
+Haryana,Kurukshetra,Late,Restricted,PBW 833; DBW 316
+Haryana,Kurukshetra,Very Late,Irrigated,PBW 757; HI 1621
+Haryana,Mahendragarh,Timely,Irrigated,RAJ 4037; UAS 304
+Haryana,Mahendragarh,Timely,Restricted,MACS 6478; UAS 304
+Haryana,Mahendragarh,Timely,Rainfed,GW 322; HS 562
+Haryana,Mahendragarh,Late,Irrigated,PBW 771; VL 892
+Haryana,Mahendragarh,Late,Restricted,DBW 316; HD 2932
+Haryana,Mahendragarh,Very Late,Irrigated,PBW 757; HD 3271
+Haryana,Nuh,Timely,Irrigated,RAJ 4037; GW 322
+Haryana,Nuh,Timely,Restricted,Lok 1; NIAW 917
+Haryana,Nuh,Timely,Rainfed,NIAW 917; MACS 6478
+Haryana,Nuh,Late,Irrigated,VL 892; HD 2932
+Haryana,Nuh,Late,Restricted,DBW 316; CG 1029
+Haryana,Nuh,Very Late,Irrigated,HI 1621; HD 3271
+Haryana,Palwal,Timely,Irrigated,NIAW 917; HD 2967
+Haryana,Palwal,Timely,Restricted,HD 3086; HPW 349
+Haryana,Palwal,Timely,Rainfed,HD 3086; GW 322
+Haryana,Palwal,Late,Irrigated,PBW 833; CG 1029
+Haryana,Palwal,Late,Restricted,CG 1029; VL 892
+Haryana,Palwal,Very Late,Irrigated,HD 3298; PBW 757
+Haryana,Panchkula,Timely,Irrigated,PBW 343; RAJ 4037
+Haryana,Panchkula,Timely,Restricted,RAJ 4037; HPW 349
+Haryana,Panchkula,Timely,Rainfed,PBW 343; HPW 349
+Haryana,Panchkula,Late,Irrigated,PBW 833; PBW 752
+Haryana,Panchkula,Late,Restricted,VL 892; PBW 833
+Haryana,Panchkula,Very Late,Irrigated,HD 3271; HD 3298
+Haryana,Panipat,Timely,Irrigated,HD 2967; MACS 6478
+Haryana,Panipat,Timely,Restricted,Lok 1; HPW 349
+Haryana,Panipat,Timely,Rainfed,HPW 349; UAS 304
+Haryana,Panipat,Late,Irrigated,HD 2932; PBW 752
+Haryana,Panipat,Late,Restricted,PBW 833; DBW 316
+Haryana,Panipat,Very Late,Irrigated,PBW 757; HI 1621
+Haryana,Rewari,Timely,Irrigated,NIAW 917; MACS 6478
+Haryana,Rewari,Timely,Restricted,MACS 6478; RAJ 4037
+Haryana,Rewari,Timely,Rainfed,RAJ 4037; PBW 343
+Haryana,Rewari,Late,Irrigated,HD 2932; PBW 771
+Haryana,Rewari,Late,Restricted,CG 1029; HD 2932
+Haryana,Rewari,Very Late,Irrigated,PBW 757; HD 3298
+Haryana,Rohtak,Timely,Irrigated,HD 3086; HS 562
+Haryana,Rohtak,Timely,Restricted,RAJ 4037; PBW 343
+Haryana,Rohtak,Timely,Rainfed,RAJ 4037; HD 2967
+Haryana,Rohtak,Late,Irrigated,CG 1029; DBW 316
+Haryana,Rohtak,Late,Restricted,PBW 771; VL 892
+Haryana,Rohtak,Very Late,Irrigated,HI 1621; HD 3298
+Haryana,Sirsa,Timely,Irrigated,HS 562; HD 2967
+Haryana,Sirsa,Timely,Restricted,HD 3086; Lok 1
+Haryana,Sirsa,Timely,Rainfed,HS 562; GW 322
+Haryana,Sirsa,Late,Irrigated,HD 2932; PBW 833
+Haryana,Sirsa,Late,Restricted,PBW 833; PBW 752
+Haryana,Sirsa,Very Late,Irrigated,PBW 757; HD 3298
+Haryana,Sonipat,Timely,Irrigated,HPW 349; Lok 1
+Haryana,Sonipat,Timely,Restricted,MACS 6478; NIAW 917
+Haryana,Sonipat,Timely,Rainfed,HPW 349; PBW 343
+Haryana,Sonipat,Late,Irrigated,PBW 752; HD 2932
+Haryana,Sonipat,Late,Restricted,CG 1029; PBW 771
+Haryana,Sonipat,Very Late,Irrigated,HD 3271; HD 3298
+Haryana,Yamunanagar,Timely,Irrigated,HD 2967; MACS 6478
+Haryana,Yamunanagar,Timely,Restricted,HS 562; PBW 343
+Haryana,Yamunanagar,Timely,Rainfed,RAJ 4037; HPW 349
+Haryana,Yamunanagar,Late,Irrigated,CG 1029; DBW 316
+Haryana,Yamunanagar,Late,Restricted,CG 1029; HD 2932
+Haryana,Yamunanagar,Very Late,Irrigated,HI 1621; HD 3271
+Delhi,North West,Timely,Irrigated,RAJ 4037; GW 322
+Delhi,North West,Timely,Restricted,UAS 304; HPW 349
+Delhi,North West,Timely,Rainfed,NIAW 917; HS 562
+Delhi,North West,Late,Irrigated,PBW 771; HD 2932
+Delhi,North West,Late,Restricted,VL 892; PBW 752
+Delhi,North West,Very Late,Irrigated,HD 3271; HD 3298
+Delhi,North East,Timely,Irrigated,HPW 349; Lok 1
+Delhi,North East,Timely,Restricted,HD 3086; NIAW 917
+Delhi,North East,Timely,Rainfed,GW 322; PBW 343
+Delhi,North East,Late,Irrigated,PBW 752; CG 1029
+Delhi,North East,Late,Restricted,HD 2932; PBW 771
+Delhi,North East,Very Late,Irrigated,HI 1621; HD 3298
+Delhi,South West,Timely,Irrigated,HD 2967; Lok 1
+Delhi,South West,Timely,Restricted,HS 562; PBW 343
+Delhi,South West,Timely,Rainfed,NIAW 917; Lok 1
+Delhi,South West,Late,Irrigated,PBW 771; CG 1029
+Delhi,South West,Late,Restricted,VL 892; PBW 752
+Delhi,South West,Very Late,Irrigated,HI 1621; HD 3271
+Delhi,South East,Timely,Irrigated,NIAW 917; HS 562
+Delhi,South East,Timely,Restricted,HPW 349; NIAW 917
+Delhi,South East,Timely,Rainfed,UAS 304; Lok 1
+Delhi,South East,Late,Irrigated,PBW 833; PBW 771
+Delhi,South East,Late,Restricted,PBW 833; VL 892
+Delhi,South East,Very Late,Irrigated,HD 3271; PBW 757
+Delhi,Central,Timely,Irrigated,HD 2967; HPW 349
+Delhi,Central,Timely,Restricted,HS 562; RAJ 4037
+Delhi,Central,Timely,Rainfed,HD 3086; GW 322
+Delhi,Central,Late,Irrigated,DBW 316; HD 2932
+Delhi,Central,Late,Restricted,PBW 752; PBW 833
+Delhi,Central,Very Late,Irrigated,PBW 757; HD 3271
+Delhi,West,Timely,Irrigated,HPW 349; HS 562
+Delhi,West,Timely,Restricted,PBW 343; MACS 6478
+Delhi,West,Timely,Rainfed,HPW 349; GW 322
+Delhi,West,Late,Irrigated,PBW 752; DBW 316
+Delhi,West,Late,Restricted,CG 1029; PBW 771
+Delhi,West,Very Late,Irrigated,PBW 757; HI 1621
+Delhi,East,Timely,Irrigated,UAS 304; HD 2967
+Delhi,East,Timely,Restricted,HD 2967; HD 3086
+Delhi,East,Timely,Rainfed,MACS 6478; UAS 304
+Delhi,East,Late,Irrigated,PBW 833; DBW 316
+Delhi,East,Late,Restricted,DBW 316; PBW 771
+Delhi,East,Very Late,Irrigated,HD 3298; HD 3271
+Delhi,South,Timely,Irrigated,GW 322; RAJ 4037
+Delhi,South,Timely,Restricted,HD 3086; HD 2967
+Delhi,South,Timely,Rainfed,PBW 343; HD 3086
+Delhi,South,Late,Irrigated,DBW 316; PBW 833
+Delhi,South,Late,Restricted,DBW 316; PBW 833
+Delhi,South,Very Late,Irrigated,HD 3298; HI 1621
+Delhi,New Delhi,Timely,Irrigated,Lok 1; RAJ 4037
+Delhi,New Delhi,Timely,Restricted,Lok 1; HPW 349
+Delhi,New Delhi,Timely,Rainfed,UAS 304; NIAW 917
+Delhi,New Delhi,Late,Irrigated,CG 1029; PBW 752
+Delhi,New Delhi,Late,Restricted,PBW 752; PBW 833
+Delhi,New Delhi,Very Late,Irrigated,PBW 757; HD 3271
+Delhi,Shahdara,Timely,Irrigated,HS 562; RAJ 4037
+Delhi,Shahdara,Timely,Restricted,HS 562; MACS 6478
+Delhi,Shahdara,Timely,Rainfed,MACS 6478; UAS 304
+Delhi,Shahdara,Late,Irrigated,PBW 752; DBW 316
+Delhi,Shahdara,Late,Restricted,VL 892; PBW 752
+Delhi,Shahdara,Very Late,Irrigated,HD 3298; PBW 757
+Rajasthan,Jaipur,Timely,Irrigated,GW 322; Lok 1
+Rajasthan,Jaipur,Timely,Restricted,HD 3086; RAJ 4037
+Rajasthan,Jaipur,Timely,Rainfed,HPW 349; RAJ 4037
+Rajasthan,Jaipur,Late,Irrigated,DBW 316; CG 1029
+Rajasthan,Jaipur,Late,Restricted,VL 892; PBW 833
+Rajasthan,Jaipur,Very Late,Irrigated,HD 3271; HI 1621
+Rajasthan,Jodhpur,Timely,Irrigated,Lok 1; HS 562
+Rajasthan,Jodhpur,Timely,Restricted,HS 562; Lok 1
+Rajasthan,Jodhpur,Timely,Rainfed,HPW 349; RAJ 4037
+Rajasthan,Jodhpur,Late,Irrigated,HD 2932; PBW 771
+Rajasthan,Jodhpur,Late,Restricted,PBW 752; HD 2932
+Rajasthan,Jodhpur,Very Late,Irrigated,HD 3271; HI 1621
+Rajasthan,Alwar,Timely,Irrigated,UAS 304; MACS 6478
+Rajasthan,Alwar,Timely,Restricted,MACS 6478; NIAW 917
+Rajasthan,Alwar,Timely,Rainfed,HD 3086; HS 562
+Rajasthan,Alwar,Late,Irrigated,DBW 316; CG 1029
+Rajasthan,Alwar,Late,Restricted,CG 1029; PBW 771
+Rajasthan,Alwar,Very Late,Irrigated,HI 1621; HD 3271
+Rajasthan,Ajmer,Timely,Irrigated,MACS 6478; GW 322
+Rajasthan,Ajmer,Timely,Restricted,HD 2967; NIAW 917
+Rajasthan,Ajmer,Timely,Rainfed,HPW 349; UAS 304
+Rajasthan,Ajmer,Late,Irrigated,HD 2932; DBW 316
+Rajasthan,Ajmer,Late,Restricted,CG 1029; HD 2932
+Rajasthan,Ajmer,Very Late,Irrigated,HD 3271; HD 3298
+Rajasthan,Bikaner,Timely,Irrigated,NIAW 917; HD 3086
+Rajasthan,Bikaner,Timely,Restricted,HPW 349; HD 3086
+Rajasthan,Bikaner,Timely,Rainfed,MACS 6478; RAJ 4037
+Rajasthan,Bikaner,Late,Irrigated,DBW 316; VL 892
+Rajasthan,Bikaner,Late,Restricted,PBW 833; HD 2932
+Rajasthan,Bikaner,Very Late,Irrigated,HI 1621; HD 3271
+Rajasthan,Bhilwara,Timely,Irrigated,MACS 6478; PBW 343
+Rajasthan,Bhilwara,Timely,Restricted,HPW 349; NIAW 917
+Rajasthan,Bhilwara,Timely,Rainfed,HD 3086; MACS 6478
+Rajasthan,Bhilwara,Late,Irrigated,PBW 771; PBW 752
+Rajasthan,Bhilwara,Late,Restricted,CG 1029; PBW 752
+Rajasthan,Bhilwara,Very Late,Irrigated,HD 3298; HD 3271
+Rajasthan,Bundi,Timely,Irrigated,MACS 6478; HPW 349
+Rajasthan,Bundi,Timely,Restricted,Lok 1; HD 3086
+Rajasthan,Bundi,Timely,Rainfed,MACS 6478; HPW 349
+Rajasthan,Bundi,Late,Irrigated,DBW 316; CG 1029
+Rajasthan,Bundi,Late,Restricted,VL 892; PBW 833
+Rajasthan,Bundi,Very Late,Irrigated,HI 1621; HD 3298
+Rajasthan,Chittorgarh,Timely,Irrigated,GW 322; HD 3086
+Rajasthan,Chittorgarh,Timely,Restricted,PBW 343; MACS 6478
+Rajasthan,Chittorgarh,Timely,Rainfed,Lok 1; HD 2967
+Rajasthan,Chittorgarh,Late,Irrigated,DBW 316; PBW 752
+Rajasthan,Chittorgarh,Late,Restricted,HD 2932; CG 1029
+Rajasthan,Chittorgarh,Very Late,Irrigated,HD 3271; HI 1621
+Rajasthan,Churu,Timely,Irrigated,RAJ 4037; HD 2967
+Rajasthan,Churu,Timely,Restricted,HPW 349; Lok 1
+Rajasthan,Churu,Timely,Rainfed,Lok 1; HS 562
+Rajasthan,Churu,Late,Irrigated,CG 1029; DBW 316
+Rajasthan,Churu,Late,Restricted,PBW 752; PBW 771
+Rajasthan,Churu,Very Late,Irrigated,HD 3271; HD 3298
+Rajasthan,Dausa,Timely,Irrigated,Lok 1; HD 3086
+Rajasthan,Dausa,Timely,Restricted,RAJ 4037; GW 322
+Rajasthan,Dausa,Timely,Rainfed,UAS 304; GW 322
+Rajasthan,Dausa,Late,Irrigated,PBW 771; PBW 752
+Rajasthan,Dausa,Late,Restricted,DBW 316; PBW 771
+Rajasthan,Dausa,Very Late,Irrigated,PBW 757; HD 3298
+Rajasthan,Dholpur,Timely,Irrigated,Lok 1; RAJ 4037
+Rajasthan,Dholpur,Timely,Restricted,HS 562; NIAW 917
+Rajasthan,Dholpur,Timely,Rainfed,GW 322; HD 3086
+Rajasthan,Dholpur,Late,Irrigated,PBW 833; PBW 752
+Rajasthan,Dholpur,Late,Restricted,CG 1029; PBW 833
+Rajasthan,Dholpur,Very Late,Irrigated,HI 1621; HD 3271
+Rajasthan,Dungarpur,Timely,Irrigated,PBW 343; MACS 6478
+Rajasthan,Dungarpur,Timely,Restricted,MACS 6478; HS 562
+Rajasthan,Dungarpur,Timely,Rainfed,Lok 1; RAJ 4037
+Rajasthan,Dungarpur,Late,Irrigated,PBW 833; PBW 771
+Rajasthan,Dungarpur,Late,Restricted,HD 2932; PBW 833
+Rajasthan,Dungarpur,Very Late,Irrigated,HI 1621; PBW 757
+Rajasthan,Hanumangarh,Timely,Irrigated,UAS 304; MACS 6478
+Rajasthan,Hanumangarh,Timely,Restricted,MACS 6478; Lok 1
+Rajasthan,Hanumangarh,Timely,Rainfed,UAS 304; PBW 343
+Rajasthan,Hanumangarh,Late,Irrigated,HD 2932; PBW 771
+Rajasthan,Hanumangarh,Late,Restricted,CG 1029; PBW 833
+Rajasthan,Hanumangarh,Very Late,Irrigated,HD 3298; HI 1621
+Rajasthan,Karauli,Timely,Irrigated,NIAW 917; PBW 343
+Rajasthan,Karauli,Timely,Restricted,HPW 349; PBW 343
+Rajasthan,Karauli,Timely,Rainfed,Lok 1; HPW 349
+Rajasthan,Karauli,Late,Irrigated,PBW 833; PBW 771
+Rajasthan,Karauli,Late,Restricted,CG 1029; PBW 771
+Rajasthan,Karauli,Very Late,Irrigated,HD 3298; HI 1621
+Rajasthan,Kota,Timely,Irrigated,RAJ 4037; HD 2967
+Rajasthan,Kota,Timely,Restricted,HS 562; HPW 349
+Rajasthan,Kota,Timely,Rainfed,Lok 1; UAS 304
+Rajasthan,Kota,Late,Irrigated,PBW 833; PBW 752
+Rajasthan,Kota,Late,Restricted,PBW 833; VL 892
+Rajasthan,Kota,Very Late,Irrigated,HI 1621; HD 3271
+Rajasthan,Nagaur,Timely,Irrigated,HS 562; NIAW 917
+Rajasthan,Nagaur,Timely,Restricted,PBW 343; RAJ 4037
+Rajasthan,Nagaur,Timely,Rainfed,PBW 343; GW 322
+Rajasthan,Nagaur,Late,Irrigated,HD 2932; CG 1029
+Rajasthan,Nagaur,Late,Restricted,DBW 316; VL 892
+Rajasthan,Nagaur,Very Late,Irrigated,PBW 757; HD 3271
+Rajasthan,Pali,Timely,Irrigated,PBW 343; HD 2967
+Rajasthan,Pali,Timely,Restricted,MACS 6478; UAS 304
+Rajasthan,Pali,Timely,Rainfed,HS 562; UAS 304
+Rajasthan,Pali,Late,Irrigated,HD 2932; VL 892
+Rajasthan,Pali,Late,Restricted,CG 1029; HD 2932
+Rajasthan,Pali,Very Late,Irrigated,PBW 757; HD 3298
+Rajasthan,Sikar,Timely,Irrigated,MACS 6478; GW 322
+Rajasthan,Sikar,Timely,Restricted,HD 2967; GW 322
+Rajasthan,Sikar,Timely,Rainfed,HPW 349; PBW 343
+Rajasthan,Sikar,Late,Irrigated,CG 1029; HD 2932
+Rajasthan,Sikar,Late,Restricted,HD 2932; PBW 771
+Rajasthan,Sikar,Very Late,Irrigated,PBW 757; HD 3271
+Rajasthan,Sawai Madhopur,Timely,Irrigated,HD 3086; HPW 349
+Rajasthan,Sawai Madhopur,Timely,Restricted,HD 3086; NIAW 917
+Rajasthan,Sawai Madhopur,Timely,Rainfed,Lok 1; HPW 349
+Rajasthan,Sawai Madhopur,Late,Irrigated,DBW 316; PBW 771
+Rajasthan,Sawai Madhopur,Late,Restricted,PBW 833; HD 2932
+Rajasthan,Sawai Madhopur,Very Late,Irrigated,PBW 757; HD 3271
+Rajasthan,Sri Ganganagar,Timely,Irrigated,HS 562; UAS 304
+Rajasthan,Sri Ganganagar,Timely,Restricted,UAS 304; PBW 343
+Rajasthan,Sri Ganganagar,Timely,Rainfed,UAS 304; RAJ 4037
+Rajasthan,Sri Ganganagar,Late,Irrigated,CG 1029; DBW 316
+Rajasthan,Sri Ganganagar,Late,Restricted,VL 892; PBW 833
+Rajasthan,Sri Ganganagar,Very Late,Irrigated,HI 1621; HD 3298
+Uttar Pradesh,Agra,Timely,Irrigated,HD 3086; RAJ 4037
+Uttar Pradesh,Agra,Timely,Restricted,HD 2967; GW 322
+Uttar Pradesh,Agra,Timely,Rainfed,UAS 304; RAJ 4037
+Uttar Pradesh,Agra,Late,Irrigated,PBW 833; DBW 316
+Uttar Pradesh,Agra,Late,Restricted,VL 892; DBW 316
+Uttar Pradesh,Agra,Very Late,Irrigated,HD 3271; HD 3298
+Uttar Pradesh,Aligarh,Timely,Irrigated,RAJ 4037; HPW 349
+Uttar Pradesh,Aligarh,Timely,Restricted,HS 562; NIAW 917
+Uttar Pradesh,Aligarh,Timely,Rainfed,PBW 343; Lok 1
+Uttar Pradesh,Aligarh,Late,Irrigated,PBW 752; CG 1029
+Uttar Pradesh,Aligarh,Late,Restricted,CG 1029; PBW 771
+Uttar Pradesh,Aligarh,Very Late,Irrigated,HI 1621; HD 3298
+Uttar Pradesh,Allahabad,Timely,Irrigated,PBW 343; RAJ 4037
+Uttar Pradesh,Allahabad,Timely,Restricted,HPW 349; UAS 304
+Uttar Pradesh,Allahabad,Timely,Rainfed,HD 3086; HS 562
+Uttar Pradesh,Allahabad,Late,Irrigated,PBW 771; HD 2932
+Uttar Pradesh,Allahabad,Late,Restricted,PBW 771; VL 892
+Uttar Pradesh,Allahabad,Very Late,Irrigated,HI 1621; HD 3271
+Uttar Pradesh,Ambedkar Nagar,Timely,Irrigated,HS 562; GW 322
+Uttar Pradesh,Ambedkar Nagar,Timely,Restricted,HD 2967; HPW 349
+Uttar Pradesh,Ambedkar Nagar,Timely,Rainfed,PBW 343; MACS 6478
+Uttar Pradesh,Ambedkar Nagar,Late,Irrigated,PBW 752; HD 2932
+Uttar Pradesh,Ambedkar Nagar,Late,Restricted,VL 892; PBW 771
+Uttar Pradesh,Ambedkar Nagar,Very Late,Irrigated,HD 3298; HI 1621
+Uttar Pradesh,Ayodhya,Timely,Irrigated,PBW 343; GW 322
+Uttar Pradesh,Ayodhya,Timely,Restricted,HPW 349; PBW 343
+Uttar Pradesh,Ayodhya,Timely,Rainfed,NIAW 917; Lok 1
+Uttar Pradesh,Ayodhya,Late,Irrigated,PBW 833; CG 1029
+Uttar Pradesh,Ayodhya,Late,Restricted,PBW 752; VL 892
+Uttar Pradesh,Ayodhya,Very Late,Irrigated,HI 1621; HD 3298
+Uttar Pradesh,Azamgarh,Timely,Irrigated,HD 2967; RAJ 4037
+Uttar Pradesh,Azamgarh,Timely,Restricted,HD 3086; UAS 304
+Uttar Pradesh,Azamgarh,Timely,Rainfed,HPW 349; UAS 304
+Uttar Pradesh,Azamgarh,Late,Irrigated,CG 1029; HD 2932
+Uttar Pradesh,Azamgarh,Late,Restricted,PBW 833; PBW 771
+Uttar Pradesh,Azamgarh,Very Late,Irrigated,HD 3298; PBW 757
+Uttar Pradesh,Bareilly,Timely,Irrigated,UAS 304; Lok 1
+Uttar Pradesh,Bareilly,Timely,Restricted,GW 322; HS 562
+Uttar Pradesh,Bareilly,Timely,Rainfed,PBW 343; NIAW 917
+Uttar Pradesh,Bareilly,Late,Irrigated,PBW 833; HD 2932
+Uttar Pradesh,Bareilly,Late,Restricted,PBW 752; DBW 316
+Uttar Pradesh,Bareilly,Very Late,Irrigated,HD 3298; HD 3271
+Uttar Pradesh,Bijnor,Timely,Irrigated,GW 322; RAJ 4037
+Uttar Pradesh,Bijnor,Timely,Restricted,RAJ 4037; MACS 6478
+Uttar Pradesh,Bijnor,Timely,Rainfed,PBW 343; MACS 6478
+Uttar Pradesh,Bijnor,Late,Irrigated,CG 1029; PBW 752
+Uttar Pradesh,Bijnor,Late,Restricted,CG 1029; PBW 833
+Uttar Pradesh,Bijnor,Very Late,Irrigated,HD 3271; HD 3298
+Uttar Pradesh,Bulandshahr,Timely,Irrigated,RAJ 4037; MACS 6478
+Uttar Pradesh,Bulandshahr,Timely,Restricted,GW 322; HPW 349
+Uttar Pradesh,Bulandshahr,Timely,Rainfed,GW 322; HD 2967
+Uttar Pradesh,Bulandshahr,Late,Irrigated,VL 892; PBW 752
+Uttar Pradesh,Bulandshahr,Late,Restricted,HD 2932; PBW 752
+Uttar Pradesh,Bulandshahr,Very Late,Irrigated,HD 3298; HI 1621
+Uttar Pradesh,Deoria,Timely,Irrigated,PBW 343; HS 562
+Uttar Pradesh,Deoria,Timely,Restricted,PBW 343; GW 322
+Uttar Pradesh,Deoria,Timely,Rainfed,HPW 349; Lok 1
+Uttar Pradesh,Deoria,Late,Irrigated,CG 1029; VL 892
+Uttar Pradesh,Deoria,Late,Restricted,PBW 752; HD 2932
+Uttar Pradesh,Deoria,Very Late,Irrigated,HI 1621; HD 3271
+Uttar Pradesh,Etawah,Timely,Irrigated,HD 3086; GW 322
+Uttar Pradesh,Etawah,Timely,Restricted,UAS 304; MACS 6478
+Uttar Pradesh,Etawah,Timely,Rainfed,PBW 343; HD 2967
+Uttar Pradesh,Etawah,Late,Irrigated,VL 892; HD 2932
+Uttar Pradesh,Etawah,Late,Restricted,PBW 833; VL 892
+Uttar Pradesh,Etawah,Very Late,Irrigated,HD 3271; PBW 757
+Uttar Pradesh,Firozabad,Timely,Irrigated,HPW 349; HD 3086
+Uttar Pradesh,Firozabad,Timely,Restricted,GW 322; RAJ 4037
+Uttar Pradesh,Firozabad,Timely,Rainfed,MACS 6478; NIAW 917
+Uttar Pradesh,Firozabad,Late,Irrigated,VL 892; PBW 833
+Uttar Pradesh,Firozabad,Late,Restricted,PBW 771; VL 892
+Uttar Pradesh,Firozabad,Very Late,Irrigated,PBW 757; HI 1621
+Uttar Pradesh,Gautam Buddha Nagar,Timely,Irrigated,HD 3086; GW 322
+Uttar Pradesh,Gautam Buddha Nagar,Timely,Restricted,HD 2967; RAJ 4037
+Uttar Pradesh,Gautam Buddha Nagar,Timely,Rainfed,GW 322; UAS 304
+Uttar Pradesh,Gautam Buddha Nagar,Late,Irrigated,CG 1029; HD 2932
+Uttar Pradesh,Gautam Buddha Nagar,Late,Restricted,CG 1029; DBW 316
+Uttar Pradesh,Gautam Buddha Nagar,Very Late,Irrigated,HD 3298; HD 3271
+Uttar Pradesh,Ghaziabad,Timely,Irrigated,HS 562; UAS 304
+Uttar Pradesh,Ghaziabad,Timely,Restricted,HS 562; GW 322
+Uttar Pradesh,Ghaziabad,Timely,Rainfed,GW 322; HS 562
+Uttar Pradesh,Ghaziabad,Late,Irrigated,PBW 752; HD 2932
+Uttar Pradesh,Ghaziabad,Late,Restricted,PBW 771; DBW 316
+Uttar Pradesh,Ghaziabad,Very Late,Irrigated,HI 1621; HD 3271
+Uttar Pradesh,Ghazipur,Timely,Irrigated,HS 562; PBW 343
+Uttar Pradesh,Ghazipur,Timely,Restricted,NIAW 917; UAS 304
+Uttar Pradesh,Ghazipur,Timely,Rainfed,HD 3086; HS 562
+Uttar Pradesh,Ghazipur,Late,Irrigated,CG 1029; PBW 771
+Uttar Pradesh,Ghazipur,Late,Restricted,PBW 752; CG 1029
+Uttar Pradesh,Ghazipur,Very Late,Irrigated,PBW 757; HI 1621
+Uttar Pradesh,Gorakhpur,Timely,Irrigated,UAS 304; HPW 349
+Uttar Pradesh,Gorakhpur,Timely,Restricted,Lok 1; HD 3086
+Uttar Pradesh,Gorakhpur,Timely,Rainfed,RAJ 4037; GW 322
+Uttar Pradesh,Gorakhpur,Late,Irrigated,PBW 771; PBW 752
+Uttar Pradesh,Gorakhpur,Late,Restricted,VL 892; PBW 833
+Uttar Pradesh,Gorakhpur,Very Late,Irrigated,HD 3298; HI 1621
+Uttar Pradesh,Hardoi,Timely,Irrigated,HS 562; MACS 6478
+Uttar Pradesh,Hardoi,Timely,Restricted,HD 3086; NIAW 917
+Uttar Pradesh,Hardoi,Timely,Rainfed,HD 3086; MACS 6478
+Uttar Pradesh,Hardoi,Late,Irrigated,PBW 833; PBW 752
+Uttar Pradesh,Hardoi,Late,Restricted,PBW 771; PBW 752
+Uttar Pradesh,Hardoi,Very Late,Irrigated,HD 3298; PBW 757
+Uttar Pradesh,Jaunpur,Timely,Irrigated,Lok 1; HPW 349
+Uttar Pradesh,Jaunpur,Timely,Restricted,HS 562; Lok 1
+Uttar Pradesh,Jaunpur,Timely,Rainfed,HPW 349; GW 322
+Uttar Pradesh,Jaunpur,Late,Irrigated,CG 1029; HD 2932
+Uttar Pradesh,Jaunpur,Late,Restricted,DBW 316; CG 1029
+Uttar Pradesh,Jaunpur,Very Late,Irrigated,HD 3271; HD 3298
+Uttar Pradesh,Jhansi,Timely,Irrigated,Lok 1; HD 2967
+Uttar Pradesh,Jhansi,Timely,Restricted,MACS 6478; HD 3086
+Uttar Pradesh,Jhansi,Timely,Rainfed,HPW 349; NIAW 917
+Uttar Pradesh,Jhansi,Late,Irrigated,PBW 752; HD 2932
+Uttar Pradesh,Jhansi,Late,Restricted,PBW 833; PBW 752
+Uttar Pradesh,Jhansi,Very Late,Irrigated,HD 3271; HD 3298
+Uttar Pradesh,Kanpur Nagar,Timely,Irrigated,GW 322; HPW 349
+Uttar Pradesh,Kanpur Nagar,Timely,Restricted,RAJ 4037; Lok 1
+Uttar Pradesh,Kanpur Nagar,Timely,Rainfed,RAJ 4037; HS 562
+Uttar Pradesh,Kanpur Nagar,Late,Irrigated,HD 2932; CG 1029
+Uttar Pradesh,Kanpur Nagar,Late,Restricted,PBW 833; CG 1029
+Uttar Pradesh,Kanpur Nagar,Very Late,Irrigated,HD 3271; HI 1621
+Uttar Pradesh,Kushinagar,Timely,Irrigated,HPW 349; MACS 6478
+Uttar Pradesh,Kushinagar,Timely,Restricted,HS 562; Lok 1
+Uttar Pradesh,Kushinagar,Timely,Rainfed,RAJ 4037; MACS 6478
+Uttar Pradesh,Kushinagar,Late,Irrigated,VL 892; PBW 833
+Uttar Pradesh,Kushinagar,Late,Restricted,HD 2932; VL 892
+Uttar Pradesh,Kushinagar,Very Late,Irrigated,HI 1621; HD 3298
+Uttar Pradesh,Lakhimpur Kheri,Timely,Irrigated,NIAW 917; PBW 343
+Uttar Pradesh,Lakhimpur Kheri,Timely,Restricted,RAJ 4037; HS 562
+Uttar Pradesh,Lakhimpur Kheri,Timely,Rainfed,Lok 1; RAJ 4037
+Uttar Pradesh,Lakhimpur Kheri,Late,Irrigated,PBW 833; DBW 316
+Uttar Pradesh,Lakhimpur Kheri,Late,Restricted,DBW 316; PBW 771
+Uttar Pradesh,Lakhimpur Kheri,Very Late,Irrigated,HD 3271; HI 1621
+Uttar Pradesh,Lucknow,Timely,Irrigated,HD 2967; MACS 6478
+Uttar Pradesh,Lucknow,Timely,Restricted,HD 3086; HS 562
+Uttar Pradesh,Lucknow,Timely,Rainfed,GW 322; HPW 349
+Uttar Pradesh,Lucknow,Late,Irrigated,CG 1029; VL 892
+Uttar Pradesh,Lucknow,Late,Restricted,PBW 833; DBW 316
+Uttar Pradesh,Lucknow,Very Late,Irrigated,HD 3298; HI 1621
+Uttar Pradesh,Meerut,Timely,Irrigated,GW 322; PBW 343
+Uttar Pradesh,Meerut,Timely,Restricted,UAS 304; GW 322
+Uttar Pradesh,Meerut,Timely,Rainfed,NIAW 917; HD 3086
+Uttar Pradesh,Meerut,Late,Irrigated,VL 892; DBW 316
+Uttar Pradesh,Meerut,Late,Restricted,PBW 771; VL 892
+Uttar Pradesh,Meerut,Very Late,Irrigated,HD 3298; HI 1621
+Uttar Pradesh,Moradabad,Timely,Irrigated,NIAW 917; RAJ 4037
+Uttar Pradesh,Moradabad,Timely,Restricted,PBW 343; UAS 304
+Uttar Pradesh,Moradabad,Timely,Rainfed,UAS 304; NIAW 917
+Uttar Pradesh,Moradabad,Late,Irrigated,PBW 771; PBW 752
+Uttar Pradesh,Moradabad,Late,Restricted,CG 1029; VL 892
+Uttar Pradesh,Moradabad,Very Late,Irrigated,HI 1621; HD 3298
+Uttar Pradesh,Muzaffarnagar,Timely,Irrigated,UAS 304; Lok 1
+Uttar Pradesh,Muzaffarnagar,Timely,Restricted,HPW 349; MACS 6478
+Uttar Pradesh,Muzaffarnagar,Timely,Rainfed,Lok 1; MACS 6478
+Uttar Pradesh,Muzaffarnagar,Late,Irrigated,PBW 771; PBW 752
+Uttar Pradesh,Muzaffarnagar,Late,Restricted,DBW 316; PBW 771
+Uttar Pradesh,Muzaffarnagar,Very Late,Irrigated,PBW 757; HI 1621
+Uttar Pradesh,Pratapgarh,Timely,Irrigated,HD 3086; HD 2967
+Uttar Pradesh,Pratapgarh,Timely,Restricted,GW 322; NIAW 917
+Uttar Pradesh,Pratapgarh,Timely,Rainfed,UAS 304; NIAW 917
+Uttar Pradesh,Pratapgarh,Late,Irrigated,VL 892; PBW 833
+Uttar Pradesh,Pratapgarh,Late,Restricted,DBW 316; CG 1029
+Uttar Pradesh,Pratapgarh,Very Late,Irrigated,HD 3298; HD 3271
+Uttar Pradesh,Shahjahanpur,Timely,Irrigated,NIAW 917; PBW 343
+Uttar Pradesh,Shahjahanpur,Timely,Restricted,HD 2967; HD 3086
+Uttar Pradesh,Shahjahanpur,Timely,Rainfed,HS 562; UAS 304
+Uttar Pradesh,Shahjahanpur,Late,Irrigated,HD 2932; VL 892
+Uttar Pradesh,Shahjahanpur,Late,Restricted,PBW 771; HD 2932
+Uttar Pradesh,Shahjahanpur,Very Late,Irrigated,HI 1621; PBW 757
+Uttar Pradesh,Siddharthnagar,Timely,Irrigated,HPW 349; GW 322
+Uttar Pradesh,Siddharthnagar,Timely,Restricted,HD 3086; PBW 343
+Uttar Pradesh,Siddharthnagar,Timely,Rainfed,MACS 6478; UAS 304
+Uttar Pradesh,Siddharthnagar,Late,Irrigated,DBW 316; PBW 752
+Uttar Pradesh,Siddharthnagar,Late,Restricted,PBW 771; VL 892
+Uttar Pradesh,Siddharthnagar,Very Late,Irrigated,HD 3271; PBW 757
+Uttar Pradesh,Varanasi,Timely,Irrigated,HPW 349; GW 322
+Uttar Pradesh,Varanasi,Timely,Restricted,RAJ 4037; HS 562
+Uttar Pradesh,Varanasi,Timely,Rainfed,HD 3086; NIAW 917
+Uttar Pradesh,Varanasi,Late,Irrigated,HD 2932; PBW 771
+Uttar Pradesh,Varanasi,Late,Restricted,DBW 316; PBW 833
+Uttar Pradesh,Varanasi,Very Late,Irrigated,PBW 757; HI 1621
+"Jammu & Kashmir (Jammu, Kathua)",Jammu,Timely,Irrigated,Lok 1; HD 2967
+"Jammu & Kashmir (Jammu, Kathua)",Jammu,Timely,Restricted,HS 562; HPW 349
+"Jammu & Kashmir (Jammu, Kathua)",Jammu,Timely,Rainfed,GW 322; HD 2967
+"Jammu & Kashmir (Jammu, Kathua)",Jammu,Late,Irrigated,HD 2932; VL 892
+"Jammu & Kashmir (Jammu, Kathua)",Jammu,Late,Restricted,CG 1029; PBW 771
+"Jammu & Kashmir (Jammu, Kathua)",Jammu,Very Late,Irrigated,PBW 757; HD 3298
+"Jammu & Kashmir (Jammu, Kathua)",Kathua,Timely,Irrigated,HD 3086; HD 2967
+"Jammu & Kashmir (Jammu, Kathua)",Kathua,Timely,Restricted,RAJ 4037; HD 2967
+"Jammu & Kashmir (Jammu, Kathua)",Kathua,Timely,Rainfed,NIAW 917; MACS 6478
+"Jammu & Kashmir (Jammu, Kathua)",Kathua,Late,Irrigated,CG 1029; HD 2932
+"Jammu & Kashmir (Jammu, Kathua)",Kathua,Late,Restricted,VL 892; PBW 752
+"Jammu & Kashmir (Jammu, Kathua)",Kathua,Very Late,Irrigated,HD 3271; PBW 757
+"Himachal Pradesh (Una, Paonta Valley)",Una,Timely,Irrigated,PBW 343; GW 322
+"Himachal Pradesh (Una, Paonta Valley)",Una,Timely,Restricted,UAS 304; HD 2967
+"Himachal Pradesh (Una, Paonta Valley)",Una,Timely,Rainfed,GW 322; Lok 1
+"Himachal Pradesh (Una, Paonta Valley)",Una,Late,Irrigated,HD 2932; PBW 833
+"Himachal Pradesh (Una, Paonta Valley)",Una,Late,Restricted,PBW 833; HD 2932
+"Himachal Pradesh (Una, Paonta Valley)",Una,Very Late,Irrigated,PBW 757; HD 3298
+"Himachal Pradesh (Una, Paonta Valley)",Sirmaur,Timely,Irrigated,MACS 6478; HS 562
+"Himachal Pradesh (Una, Paonta Valley)",Sirmaur,Timely,Restricted,HS 562; UAS 304
+"Himachal Pradesh (Una, Paonta Valley)",Sirmaur,Timely,Rainfed,HS 562; RAJ 4037
+"Himachal Pradesh (Una, Paonta Valley)",Sirmaur,Late,Irrigated,PBW 771; HD 2932
+"Himachal Pradesh (Una, Paonta Valley)",Sirmaur,Late,Restricted,PBW 771; CG 1029
+"Himachal Pradesh (Una, Paonta Valley)",Sirmaur,Very Late,Irrigated,PBW 757; HD 3298
+Uttarakhand (Tarai),Udham Singh Nagar,Timely,Irrigated,HS 562; RAJ 4037
+Uttarakhand (Tarai),Udham Singh Nagar,Timely,Restricted,HPW 349; UAS 304
+Uttarakhand (Tarai),Udham Singh Nagar,Timely,Rainfed,RAJ 4037; UAS 304
+Uttarakhand (Tarai),Udham Singh Nagar,Late,Irrigated,CG 1029; PBW 833
+Uttarakhand (Tarai),Udham Singh Nagar,Late,Restricted,PBW 771; PBW 833
+Uttarakhand (Tarai),Udham Singh Nagar,Very Late,Irrigated,PBW 757; HD 3298
+Uttarakhand (Tarai),Nainital,Timely,Irrigated,HS 562; PBW 343
+Uttarakhand (Tarai),Nainital,Timely,Restricted,UAS 304; PBW 343
+Uttarakhand (Tarai),Nainital,Timely,Rainfed,HD 3086; Lok 1
+Uttarakhand (Tarai),Nainital,Late,Irrigated,DBW 316; PBW 833
+Uttarakhand (Tarai),Nainital,Late,Restricted,HD 2932; PBW 752
+Uttarakhand (Tarai),Nainital,Very Late,Irrigated,HI 1621; PBW 757
+Eastern Uttar Pradesh,Ballia,Timely,Irrigated,HD 2967; UAS 304
+Eastern Uttar Pradesh,Ballia,Timely,Restricted,HS 562; HD 2967
+Eastern Uttar Pradesh,Ballia,Timely,Rainfed,MACS 6478; HD 2967
+Eastern Uttar Pradesh,Ballia,Late,Irrigated,CG 1029; PBW 752
+Eastern Uttar Pradesh,Ballia,Late,Restricted,PBW 771; VL 892
+Eastern Uttar Pradesh,Ballia,Very Late,Irrigated,HD 3271; HI 1621
+Eastern Uttar Pradesh,Basti,Timely,Irrigated,HPW 349; HD 2967
+Eastern Uttar Pradesh,Basti,Timely,Restricted,NIAW 917; GW 322
+Eastern Uttar Pradesh,Basti,Timely,Rainfed,HD 3086; MACS 6478
+Eastern Uttar Pradesh,Basti,Late,Irrigated,DBW 316; HD 2932
+Eastern Uttar Pradesh,Basti,Late,Restricted,CG 1029; DBW 316
+Eastern Uttar Pradesh,Basti,Very Late,Irrigated,HD 3271; PBW 757
+Eastern Uttar Pradesh,Gonda,Timely,Irrigated,GW 322; MACS 6478
+Eastern Uttar Pradesh,Gonda,Timely,Restricted,HPW 349; HD 2967
+Eastern Uttar Pradesh,Gonda,Timely,Rainfed,UAS 304; NIAW 917
+Eastern Uttar Pradesh,Gonda,Late,Irrigated,HD 2932; DBW 316
+Eastern Uttar Pradesh,Gonda,Late,Restricted,DBW 316; CG 1029
+Eastern Uttar Pradesh,Gonda,Very Late,Irrigated,PBW 757; HI 1621
+Eastern Uttar Pradesh,Maharajganj,Timely,Irrigated,HPW 349; NIAW 917
+Eastern Uttar Pradesh,Maharajganj,Timely,Restricted,HD 3086; PBW 343
+Eastern Uttar Pradesh,Maharajganj,Timely,Rainfed,GW 322; HD 2967
+Eastern Uttar Pradesh,Maharajganj,Late,Irrigated,PBW 833; VL 892
+Eastern Uttar Pradesh,Maharajganj,Late,Restricted,CG 1029; HD 2932
+Eastern Uttar Pradesh,Maharajganj,Very Late,Irrigated,HI 1621; HD 3271
+Eastern Uttar Pradesh,Sant Kabir Nagar,Timely,Irrigated,NIAW 917; HPW 349
+Eastern Uttar Pradesh,Sant Kabir Nagar,Timely,Restricted,HPW 349; HS 562
+Eastern Uttar Pradesh,Sant Kabir Nagar,Timely,Rainfed,UAS 304; RAJ 4037
+Eastern Uttar Pradesh,Sant Kabir Nagar,Late,Irrigated,HD 2932; VL 892
+Eastern Uttar Pradesh,Sant Kabir Nagar,Late,Restricted,PBW 752; PBW 833
+Eastern Uttar Pradesh,Sant Kabir Nagar,Very Late,Irrigated,HD 3271; HD 3298
+Eastern Uttar Pradesh,Varanasi,Timely,Irrigated,HPW 349; RAJ 4037
+Eastern Uttar Pradesh,Varanasi,Timely,Restricted,HD 2967; NIAW 917
+Eastern Uttar Pradesh,Varanasi,Timely,Rainfed,GW 322; MACS 6478
+Eastern Uttar Pradesh,Varanasi,Late,Irrigated,PBW 771; PBW 833
+Eastern Uttar Pradesh,Varanasi,Late,Restricted,HD 2932; PBW 833
+Eastern Uttar Pradesh,Varanasi,Very Late,Irrigated,PBW 757; HI 1621
+Bihar,Patna,Timely,Irrigated,MACS 6478; RAJ 4037
+Bihar,Patna,Timely,Restricted,Lok 1; HD 3086
+Bihar,Patna,Timely,Rainfed,GW 322; NIAW 917
+Bihar,Patna,Late,Irrigated,DBW 316; PBW 833
+Bihar,Patna,Late,Restricted,HD 2932; PBW 771
+Bihar,Patna,Very Late,Irrigated,PBW 757; HI 1621
+Bihar,Gaya,Timely,Irrigated,GW 322; UAS 304
+Bihar,Gaya,Timely,Restricted,RAJ 4037; HS 562
+Bihar,Gaya,Timely,Rainfed,MACS 6478; GW 322
+Bihar,Gaya,Late,Irrigated,PBW 752; HD 2932
+Bihar,Gaya,Late,Restricted,PBW 771; DBW 316
+Bihar,Gaya,Very Late,Irrigated,HD 3271; HI 1621
+Bihar,Purnea,Timely,Irrigated,NIAW 917; PBW 343
+Bihar,Purnea,Timely,Restricted,HPW 349; MACS 6478
+Bihar,Purnea,Timely,Rainfed,UAS 304; NIAW 917
+Bihar,Purnea,Late,Irrigated,DBW 316; PBW 752
+Bihar,Purnea,Late,Restricted,HD 2932; DBW 316
+Bihar,Purnea,Very Late,Irrigated,HI 1621; HD 3271
+Bihar,Bhagalpur,Timely,Irrigated,HD 2967; HPW 349
+Bihar,Bhagalpur,Timely,Restricted,PBW 343; Lok 1
+Bihar,Bhagalpur,Timely,Rainfed,PBW 343; HPW 349
+Bihar,Bhagalpur,Late,Irrigated,HD 2932; PBW 833
+Bihar,Bhagalpur,Late,Restricted,DBW 316; PBW 771
+Bihar,Bhagalpur,Very Late,Irrigated,HI 1621; HD 3271
+Bihar,Muzaffarpur,Timely,Irrigated,MACS 6478; HD 3086
+Bihar,Muzaffarpur,Timely,Restricted,Lok 1; UAS 304
+Bihar,Muzaffarpur,Timely,Rainfed,Lok 1; GW 322
+Bihar,Muzaffarpur,Late,Irrigated,DBW 316; HD 2932
+Bihar,Muzaffarpur,Late,Restricted,VL 892; PBW 833
+Bihar,Muzaffarpur,Very Late,Irrigated,HD 3298; HI 1621
+Bihar,Darbhanga,Timely,Irrigated,Lok 1; MACS 6478
+Bihar,Darbhanga,Timely,Restricted,PBW 343; MACS 6478
+Bihar,Darbhanga,Timely,Rainfed,PBW 343; UAS 304
+Bihar,Darbhanga,Late,Irrigated,HD 2932; DBW 316
+Bihar,Darbhanga,Late,Restricted,PBW 833; PBW 752
+Bihar,Darbhanga,Very Late,Irrigated,PBW 757; HD 3298
+Bihar,Ara,Timely,Irrigated,NIAW 917; RAJ 4037
+Bihar,Ara,Timely,Restricted,HD 2967; RAJ 4037
+Bihar,Ara,Timely,Rainfed,MACS 6478; UAS 304
+Bihar,Ara,Late,Irrigated,VL 892; PBW 752
+Bihar,Ara,Late,Restricted,HD 2932; PBW 771
+Bihar,Ara,Very Late,Irrigated,HD 3298; HD 3271
+Jharkhand,Ranchi,Timely,Irrigated,HD 3086; HD 2967
+Jharkhand,Ranchi,Timely,Restricted,NIAW 917; MACS 6478
+Jharkhand,Ranchi,Timely,Rainfed,NIAW 917; PBW 343
+Jharkhand,Ranchi,Late,Irrigated,PBW 771; PBW 752
+Jharkhand,Ranchi,Late,Restricted,PBW 752; PBW 833
+Jharkhand,Ranchi,Very Late,Irrigated,HD 3271; HD 3298
+Jharkhand,Dhanbad,Timely,Irrigated,NIAW 917; PBW 343
+Jharkhand,Dhanbad,Timely,Restricted,MACS 6478; GW 322
+Jharkhand,Dhanbad,Timely,Rainfed,NIAW 917; PBW 343
+Jharkhand,Dhanbad,Late,Irrigated,PBW 752; VL 892
+Jharkhand,Dhanbad,Late,Restricted,PBW 833; CG 1029
+Jharkhand,Dhanbad,Very Late,Irrigated,PBW 757; HI 1621
+Jharkhand,Jamshedpur,Timely,Irrigated,Lok 1; HS 562
+Jharkhand,Jamshedpur,Timely,Restricted,MACS 6478; PBW 343
+Jharkhand,Jamshedpur,Timely,Rainfed,PBW 343; HD 3086
+Jharkhand,Jamshedpur,Late,Irrigated,PBW 833; VL 892
+Jharkhand,Jamshedpur,Late,Restricted,CG 1029; HD 2932
+Jharkhand,Jamshedpur,Very Late,Irrigated,HI 1621; HD 3271
+Jharkhand,Bokaro,Timely,Irrigated,GW 322; RAJ 4037
+Jharkhand,Bokaro,Timely,Restricted,HPW 349; PBW 343
+Jharkhand,Bokaro,Timely,Rainfed,HD 2967; HS 562
+Jharkhand,Bokaro,Late,Irrigated,VL 892; PBW 771
+Jharkhand,Bokaro,Late,Restricted,VL 892; CG 1029
+Jharkhand,Bokaro,Very Late,Irrigated,HD 3298; HI 1621
+Jharkhand,Hazaribagh,Timely,Irrigated,NIAW 917; HPW 349
+Jharkhand,Hazaribagh,Timely,Restricted,HPW 349; PBW 343
+Jharkhand,Hazaribagh,Timely,Rainfed,RAJ 4037; Lok 1
+Jharkhand,Hazaribagh,Late,Irrigated,PBW 752; DBW 316
+Jharkhand,Hazaribagh,Late,Restricted,HD 2932; CG 1029
+Jharkhand,Hazaribagh,Very Late,Irrigated,HI 1621; HD 3298
+Jharkhand,Deoghar,Timely,Irrigated,Lok 1; GW 322
+Jharkhand,Deoghar,Timely,Restricted,NIAW 917; HPW 349
+Jharkhand,Deoghar,Timely,Rainfed,HPW 349; GW 322
+Jharkhand,Deoghar,Late,Irrigated,VL 892; DBW 316
+Jharkhand,Deoghar,Late,Restricted,CG 1029; HD 2932
+Jharkhand,Deoghar,Very Late,Irrigated,HD 3271; HD 3298
+Odisha,Cuttack,Timely,Irrigated,HS 562; HD 2967
+Odisha,Cuttack,Timely,Restricted,HD 2967; PBW 343
+Odisha,Cuttack,Timely,Rainfed,PBW 343; HD 3086
+Odisha,Cuttack,Late,Irrigated,VL 892; PBW 771
+Odisha,Cuttack,Late,Restricted,PBW 833; DBW 316
+Odisha,Cuttack,Very Late,Irrigated,HD 3298; HD 3271
+Odisha,Bhubaneswar,Timely,Irrigated,HS 562; NIAW 917
+Odisha,Bhubaneswar,Timely,Restricted,HD 2967; GW 322
+Odisha,Bhubaneswar,Timely,Rainfed,Lok 1; GW 322
+Odisha,Bhubaneswar,Late,Irrigated,HD 2932; CG 1029
+Odisha,Bhubaneswar,Late,Restricted,DBW 316; HD 2932
+Odisha,Bhubaneswar,Very Late,Irrigated,HD 3271; PBW 757
+Odisha,Sambalpur,Timely,Irrigated,HPW 349; PBW 343
+Odisha,Sambalpur,Timely,Restricted,PBW 343; Lok 1
+Odisha,Sambalpur,Timely,Rainfed,MACS 6478; NIAW 917
+Odisha,Sambalpur,Late,Irrigated,PBW 752; VL 892
+Odisha,Sambalpur,Late,Restricted,HD 2932; PBW 833
+Odisha,Sambalpur,Very Late,Irrigated,PBW 757; HI 1621
+Odisha,Balangir,Timely,Irrigated,HD 3086; HS 562
+Odisha,Balangir,Timely,Restricted,GW 322; HPW 349
+Odisha,Balangir,Timely,Rainfed,UAS 304; GW 322
+Odisha,Balangir,Late,Irrigated,CG 1029; PBW 771
+Odisha,Balangir,Late,Restricted,PBW 833; DBW 316
+Odisha,Balangir,Very Late,Irrigated,HD 3271; HD 3298
+Odisha,Kalahandi,Timely,Irrigated,GW 322; HPW 349
+Odisha,Kalahandi,Timely,Restricted,HPW 349; HD 3086
+Odisha,Kalahandi,Timely,Rainfed,MACS 6478; HD 2967
+Odisha,Kalahandi,Late,Irrigated,CG 1029; PBW 833
+Odisha,Kalahandi,Late,Restricted,PBW 833; PBW 771
+Odisha,Kalahandi,Very Late,Irrigated,HD 3298; PBW 757
+West Bengal,Kolkata,Timely,Irrigated,GW 322; HPW 349
+West Bengal,Kolkata,Timely,Restricted,NIAW 917; GW 322
+West Bengal,Kolkata,Timely,Rainfed,HPW 349; PBW 343
+West Bengal,Kolkata,Late,Irrigated,CG 1029; PBW 752
+West Bengal,Kolkata,Late,Restricted,VL 892; DBW 316
+West Bengal,Kolkata,Very Late,Irrigated,HD 3298; HI 1621
+West Bengal,Nadia,Timely,Irrigated,HD 3086; GW 322
+West Bengal,Nadia,Timely,Restricted,Lok 1; GW 322
+West Bengal,Nadia,Timely,Rainfed,NIAW 917; HPW 349
+West Bengal,Nadia,Late,Irrigated,PBW 752; HD 2932
+West Bengal,Nadia,Late,Restricted,PBW 833; PBW 752
+West Bengal,Nadia,Very Late,Irrigated,HI 1621; PBW 757
+West Bengal,Bardhaman,Timely,Irrigated,HPW 349; UAS 304
+West Bengal,Bardhaman,Timely,Restricted,HPW 349; NIAW 917
+West Bengal,Bardhaman,Timely,Rainfed,UAS 304; HS 562
+West Bengal,Bardhaman,Late,Irrigated,CG 1029; PBW 771
+West Bengal,Bardhaman,Late,Restricted,VL 892; PBW 752
+West Bengal,Bardhaman,Very Late,Irrigated,PBW 757; HD 3298
+West Bengal,Hooghly,Timely,Irrigated,GW 322; UAS 304
+West Bengal,Hooghly,Timely,Restricted,HD 3086; RAJ 4037
+West Bengal,Hooghly,Timely,Rainfed,HS 562; HD 3086
+West Bengal,Hooghly,Late,Irrigated,CG 1029; PBW 771
+West Bengal,Hooghly,Late,Restricted,HD 2932; PBW 771
+West Bengal,Hooghly,Very Late,Irrigated,HD 3298; HI 1621
+West Bengal,North 24 Parganas,Timely,Irrigated,HS 562; NIAW 917
+West Bengal,North 24 Parganas,Timely,Restricted,HD 3086; NIAW 917
+West Bengal,North 24 Parganas,Timely,Rainfed,NIAW 917; HD 3086
+West Bengal,North 24 Parganas,Late,Irrigated,HD 2932; DBW 316
+West Bengal,North 24 Parganas,Late,Restricted,DBW 316; PBW 752
+West Bengal,North 24 Parganas,Very Late,Irrigated,HI 1621; HD 3298
+Assam,Kamrup,Timely,Irrigated,NIAW 917; PBW 343
+Assam,Kamrup,Timely,Restricted,HD 3086; Lok 1
+Assam,Kamrup,Timely,Rainfed,PBW 343; UAS 304
+Assam,Kamrup,Late,Irrigated,VL 892; PBW 752
+Assam,Kamrup,Late,Restricted,PBW 752; DBW 316
+Assam,Kamrup,Very Late,Irrigated,HD 3271; HI 1621
+Assam,Dibrugarh,Timely,Irrigated,RAJ 4037; HS 562
+Assam,Dibrugarh,Timely,Restricted,HD 2967; PBW 343
+Assam,Dibrugarh,Timely,Rainfed,Lok 1; RAJ 4037
+Assam,Dibrugarh,Late,Irrigated,CG 1029; PBW 752
+Assam,Dibrugarh,Late,Restricted,CG 1029; VL 892
+Assam,Dibrugarh,Very Late,Irrigated,HI 1621; HD 3271
+Assam,Jorhat,Timely,Irrigated,NIAW 917; RAJ 4037
+Assam,Jorhat,Timely,Restricted,UAS 304; NIAW 917
+Assam,Jorhat,Timely,Rainfed,HD 2967; HPW 349
+Assam,Jorhat,Late,Irrigated,CG 1029; PBW 752
+Assam,Jorhat,Late,Restricted,PBW 752; DBW 316
+Assam,Jorhat,Very Late,Irrigated,PBW 757; HD 3271
+Assam,Nagaon,Timely,Irrigated,GW 322; HD 2967
+Assam,Nagaon,Timely,Restricted,HD 2967; NIAW 917
+Assam,Nagaon,Timely,Rainfed,NIAW 917; Lok 1
+Assam,Nagaon,Late,Irrigated,PBW 771; HD 2932
+Assam,Nagaon,Late,Restricted,VL 892; PBW 771
+Assam,Nagaon,Very Late,Irrigated,HD 3298; HD 3271
+Assam,Sonitpur,Timely,Irrigated,HD 2967; HD 3086
+Assam,Sonitpur,Timely,Restricted,GW 322; HPW 349
+Assam,Sonitpur,Timely,Rainfed,HPW 349; HS 562
+Assam,Sonitpur,Late,Irrigated,VL 892; PBW 833
+Assam,Sonitpur,Late,Restricted,CG 1029; PBW 752
+Assam,Sonitpur,Very Late,Irrigated,HD 3271; HD 3298
+Madhya Pradesh,Bhopal,Timely,Irrigated,Lok 1; NIAW 917
+Madhya Pradesh,Bhopal,Timely,Restricted,PBW 343; UAS 304
+Madhya Pradesh,Bhopal,Timely,Rainfed,HPW 349; UAS 304
+Madhya Pradesh,Bhopal,Late,Irrigated,PBW 752; CG 1029
+Madhya Pradesh,Bhopal,Late,Restricted,HD 2932; PBW 752
+Madhya Pradesh,Bhopal,Very Late,Irrigated,PBW 757; HI 1621
+Madhya Pradesh,Indore,Timely,Irrigated,PBW 343; GW 322
+Madhya Pradesh,Indore,Timely,Restricted,HPW 349; HD 2967
+Madhya Pradesh,Indore,Timely,Rainfed,Lok 1; UAS 304
+Madhya Pradesh,Indore,Late,Irrigated,PBW 833; VL 892
+Madhya Pradesh,Indore,Late,Restricted,CG 1029; HD 2932
+Madhya Pradesh,Indore,Very Late,Irrigated,PBW 757; HD 3298
+Madhya Pradesh,Ujjain,Timely,Irrigated,HD 2967; PBW 343
+Madhya Pradesh,Ujjain,Timely,Restricted,HPW 349; HD 3086
+Madhya Pradesh,Ujjain,Timely,Rainfed,PBW 343; HD 3086
+Madhya Pradesh,Ujjain,Late,Irrigated,VL 892; DBW 316
+Madhya Pradesh,Ujjain,Late,Restricted,PBW 771; DBW 316
+Madhya Pradesh,Ujjain,Very Late,Irrigated,HD 3271; HD 3298
+Madhya Pradesh,Jabalpur,Timely,Irrigated,Lok 1; NIAW 917
+Madhya Pradesh,Jabalpur,Timely,Restricted,GW 322; NIAW 917
+Madhya Pradesh,Jabalpur,Timely,Rainfed,HD 3086; NIAW 917
+Madhya Pradesh,Jabalpur,Late,Irrigated,CG 1029; DBW 316
+Madhya Pradesh,Jabalpur,Late,Restricted,CG 1029; VL 892
+Madhya Pradesh,Jabalpur,Very Late,Irrigated,HD 3271; HI 1621
+Madhya Pradesh,Gwalior,Timely,Irrigated,NIAW 917; HD 3086
+Madhya Pradesh,Gwalior,Timely,Restricted,MACS 6478; NIAW 917
+Madhya Pradesh,Gwalior,Timely,Rainfed,HD 3086; GW 322
+Madhya Pradesh,Gwalior,Late,Irrigated,CG 1029; DBW 316
+Madhya Pradesh,Gwalior,Late,Restricted,PBW 771; HD 2932
+Madhya Pradesh,Gwalior,Very Late,Irrigated,PBW 757; HD 3298
+Madhya Pradesh,Sagar,Timely,Irrigated,PBW 343; HS 562
+Madhya Pradesh,Sagar,Timely,Restricted,HD 2967; NIAW 917
+Madhya Pradesh,Sagar,Timely,Rainfed,RAJ 4037; Lok 1
+Madhya Pradesh,Sagar,Late,Irrigated,HD 2932; PBW 771
+Madhya Pradesh,Sagar,Late,Restricted,DBW 316; HD 2932
+Madhya Pradesh,Sagar,Very Late,Irrigated,HD 3298; HD 3271
+Madhya Pradesh,Rewa,Timely,Irrigated,PBW 343; HD 2967
+Madhya Pradesh,Rewa,Timely,Restricted,HPW 349; PBW 343
+Madhya Pradesh,Rewa,Timely,Rainfed,MACS 6478; HD 2967
+Madhya Pradesh,Rewa,Late,Irrigated,HD 2932; CG 1029
+Madhya Pradesh,Rewa,Late,Restricted,CG 1029; PBW 771
+Madhya Pradesh,Rewa,Very Late,Irrigated,HD 3271; HD 3298
+Madhya Pradesh,Dewas,Timely,Irrigated,HD 2967; MACS 6478
+Madhya Pradesh,Dewas,Timely,Restricted,HD 3086; Lok 1
+Madhya Pradesh,Dewas,Timely,Rainfed,Lok 1; RAJ 4037
+Madhya Pradesh,Dewas,Late,Irrigated,PBW 771; PBW 752
+Madhya Pradesh,Dewas,Late,Restricted,CG 1029; DBW 316
+Madhya Pradesh,Dewas,Very Late,Irrigated,PBW 757; HD 3271
+Madhya Pradesh,Ratlam,Timely,Irrigated,HPW 349; MACS 6478
+Madhya Pradesh,Ratlam,Timely,Restricted,Lok 1; NIAW 917
+Madhya Pradesh,Ratlam,Timely,Rainfed,HD 2967; GW 322
+Madhya Pradesh,Ratlam,Late,Irrigated,VL 892; DBW 316
+Madhya Pradesh,Ratlam,Late,Restricted,PBW 771; CG 1029
+Madhya Pradesh,Ratlam,Very Late,Irrigated,HD 3298; HI 1621
+Madhya Pradesh,Mandsaur,Timely,Irrigated,UAS 304; MACS 6478
+Madhya Pradesh,Mandsaur,Timely,Restricted,MACS 6478; GW 322
+Madhya Pradesh,Mandsaur,Timely,Rainfed,RAJ 4037; HS 562
+Madhya Pradesh,Mandsaur,Late,Irrigated,CG 1029; PBW 833
+Madhya Pradesh,Mandsaur,Late,Restricted,PBW 833; HD 2932
+Madhya Pradesh,Mandsaur,Very Late,Irrigated,HI 1621; PBW 757
+Chhattisgarh,Raipur,Timely,Irrigated,HPW 349; Lok 1
+Chhattisgarh,Raipur,Timely,Restricted,Lok 1; HD 2967
+Chhattisgarh,Raipur,Timely,Rainfed,NIAW 917; HD 2967
+Chhattisgarh,Raipur,Late,Irrigated,PBW 752; VL 892
+Chhattisgarh,Raipur,Late,Restricted,PBW 771; PBW 833
+Chhattisgarh,Raipur,Very Late,Irrigated,HD 3298; PBW 757
+Chhattisgarh,Durg,Timely,Irrigated,UAS 304; Lok 1
+Chhattisgarh,Durg,Timely,Restricted,GW 322; UAS 304
+Chhattisgarh,Durg,Timely,Rainfed,PBW 343; Lok 1
+Chhattisgarh,Durg,Late,Irrigated,PBW 833; VL 892
+Chhattisgarh,Durg,Late,Restricted,CG 1029; HD 2932
+Chhattisgarh,Durg,Very Late,Irrigated,HD 3271; HI 1621
+Chhattisgarh,Bilaspur,Timely,Irrigated,Lok 1; PBW 343
+Chhattisgarh,Bilaspur,Timely,Restricted,NIAW 917; HPW 349
+Chhattisgarh,Bilaspur,Timely,Rainfed,MACS 6478; Lok 1
+Chhattisgarh,Bilaspur,Late,Irrigated,PBW 833; VL 892
+Chhattisgarh,Bilaspur,Late,Restricted,DBW 316; PBW 833
+Chhattisgarh,Bilaspur,Very Late,Irrigated,HI 1621; PBW 757
+Chhattisgarh,Korba,Timely,Irrigated,HD 3086; RAJ 4037
+Chhattisgarh,Korba,Timely,Restricted,UAS 304; RAJ 4037
+Chhattisgarh,Korba,Timely,Rainfed,HD 2967; HD 3086
+Chhattisgarh,Korba,Late,Irrigated,DBW 316; VL 892
+Chhattisgarh,Korba,Late,Restricted,VL 892; DBW 316
+Chhattisgarh,Korba,Very Late,Irrigated,HD 3298; HI 1621
+Chhattisgarh,Dhamtari,Timely,Irrigated,GW 322; HD 2967
+Chhattisgarh,Dhamtari,Timely,Restricted,MACS 6478; HPW 349
+Chhattisgarh,Dhamtari,Timely,Rainfed,HD 3086; Lok 1
+Chhattisgarh,Dhamtari,Late,Irrigated,PBW 833; CG 1029
+Chhattisgarh,Dhamtari,Late,Restricted,HD 2932; PBW 771
+Chhattisgarh,Dhamtari,Very Late,Irrigated,PBW 757; HD 3271
+Chhattisgarh,Rajnandgaon,Timely,Irrigated,RAJ 4037; GW 322
+Chhattisgarh,Rajnandgaon,Timely,Restricted,HD 2967; NIAW 917
+Chhattisgarh,Rajnandgaon,Timely,Rainfed,HD 2967; HPW 349
+Chhattisgarh,Rajnandgaon,Late,Irrigated,DBW 316; HD 2932
+Chhattisgarh,Rajnandgaon,Late,Restricted,VL 892; HD 2932
+Chhattisgarh,Rajnandgaon,Very Late,Irrigated,HD 3271; PBW 757
+Gujarat,Ahmedabad,Timely,Irrigated,GW 322; UAS 304
+Gujarat,Ahmedabad,Timely,Restricted,HPW 349; GW 322
+Gujarat,Ahmedabad,Timely,Rainfed,HS 562; NIAW 917
+Gujarat,Ahmedabad,Late,Irrigated,HD 2932; PBW 771
+Gujarat,Ahmedabad,Late,Restricted,CG 1029; HD 2932
+Gujarat,Ahmedabad,Very Late,Irrigated,HI 1621; HD 3271
+Gujarat,Rajkot,Timely,Irrigated,HD 2967; MACS 6478
+Gujarat,Rajkot,Timely,Restricted,NIAW 917; HD 3086
+Gujarat,Rajkot,Timely,Rainfed,NIAW 917; MACS 6478
+Gujarat,Rajkot,Late,Irrigated,HD 2932; PBW 752
+Gujarat,Rajkot,Late,Restricted,PBW 833; PBW 752
+Gujarat,Rajkot,Very Late,Irrigated,HD 3271; PBW 757
+Gujarat,Vadodara,Timely,Irrigated,NIAW 917; HD 2967
+Gujarat,Vadodara,Timely,Restricted,UAS 304; HS 562
+Gujarat,Vadodara,Timely,Rainfed,HD 3086; UAS 304
+Gujarat,Vadodara,Late,Irrigated,PBW 771; PBW 833
+Gujarat,Vadodara,Late,Restricted,HD 2932; VL 892
+Gujarat,Vadodara,Very Late,Irrigated,PBW 757; HD 3298
+Gujarat,Surat,Timely,Irrigated,UAS 304; NIAW 917
+Gujarat,Surat,Timely,Restricted,HS 562; GW 322
+Gujarat,Surat,Timely,Rainfed,NIAW 917; HD 2967
+Gujarat,Surat,Late,Irrigated,CG 1029; DBW 316
+Gujarat,Surat,Late,Restricted,PBW 771; VL 892
+Gujarat,Surat,Very Late,Irrigated,HD 3298; HI 1621
+Gujarat,Mehsana,Timely,Irrigated,UAS 304; HD 2967
+Gujarat,Mehsana,Timely,Restricted,HD 2967; PBW 343
+Gujarat,Mehsana,Timely,Rainfed,GW 322; HD 2967
+Gujarat,Mehsana,Late,Irrigated,DBW 316; CG 1029
+Gujarat,Mehsana,Late,Restricted,HD 2932; DBW 316
+Gujarat,Mehsana,Very Late,Irrigated,HD 3298; PBW 757
+Gujarat,Junagadh,Timely,Irrigated,HD 2967; GW 322
+Gujarat,Junagadh,Timely,Restricted,HD 2967; PBW 343
+Gujarat,Junagadh,Timely,Rainfed,RAJ 4037; HPW 349
+Gujarat,Junagadh,Late,Irrigated,PBW 752; CG 1029
+Gujarat,Junagadh,Late,Restricted,CG 1029; HD 2932
+Gujarat,Junagadh,Very Late,Irrigated,HI 1621; HD 3271
+Gujarat,Bhavnagar,Timely,Irrigated,RAJ 4037; HD 3086
+Gujarat,Bhavnagar,Timely,Restricted,NIAW 917; HS 562
+Gujarat,Bhavnagar,Timely,Rainfed,HD 3086; PBW 343
+Gujarat,Bhavnagar,Late,Irrigated,CG 1029; PBW 771
+Gujarat,Bhavnagar,Late,Restricted,CG 1029; PBW 771
+Gujarat,Bhavnagar,Very Late,Irrigated,PBW 757; HI 1621
+Gujarat,Anand,Timely,Irrigated,RAJ 4037; PBW 343
+Gujarat,Anand,Timely,Restricted,HPW 349; NIAW 917
+Gujarat,Anand,Timely,Rainfed,PBW 343; HD 2967
+Gujarat,Anand,Late,Irrigated,PBW 771; DBW 316
+Gujarat,Anand,Late,Restricted,PBW 833; HD 2932
+Gujarat,Anand,Very Late,Irrigated,HD 3271; HI 1621
+Rajasthan (Kota & Udaipur),Kota,Timely,Irrigated,HS 562; HD 2967
+Rajasthan (Kota & Udaipur),Kota,Timely,Restricted,Lok 1; GW 322
+Rajasthan (Kota & Udaipur),Kota,Timely,Rainfed,RAJ 4037; GW 322
+Rajasthan (Kota & Udaipur),Kota,Late,Irrigated,PBW 771; PBW 752
+Rajasthan (Kota & Udaipur),Kota,Late,Restricted,PBW 833; HD 2932
+Rajasthan (Kota & Udaipur),Kota,Very Late,Irrigated,HI 1621; HD 3298
+Rajasthan (Kota & Udaipur),Udaipur,Timely,Irrigated,RAJ 4037; NIAW 917
+Rajasthan (Kota & Udaipur),Udaipur,Timely,Restricted,HS 562; Lok 1
+Rajasthan (Kota & Udaipur),Udaipur,Timely,Rainfed,NIAW 917; MACS 6478
+Rajasthan (Kota & Udaipur),Udaipur,Late,Irrigated,HD 2932; CG 1029
+Rajasthan (Kota & Udaipur),Udaipur,Late,Restricted,PBW 752; HD 2932
+Rajasthan (Kota & Udaipur),Udaipur,Very Late,Irrigated,HI 1621; HD 3298
+Uttar Pradesh (Jhansi),Jhansi,Timely,Irrigated,HD 3086; UAS 304
+Uttar Pradesh (Jhansi),Jhansi,Timely,Restricted,HD 2967; NIAW 917
+Uttar Pradesh (Jhansi),Jhansi,Timely,Rainfed,Lok 1; PBW 343
+Uttar Pradesh (Jhansi),Jhansi,Late,Irrigated,CG 1029; PBW 771
+Uttar Pradesh (Jhansi),Jhansi,Late,Restricted,CG 1029; HD 2932
+Uttar Pradesh (Jhansi),Jhansi,Very Late,Irrigated,HD 3271; HI 1621
+Maharashtra,Nashik,Timely,Irrigated,NIAW 917; HPW 349
+Maharashtra,Nashik,Timely,Restricted,HS 562; GW 322
+Maharashtra,Nashik,Timely,Rainfed,HS 562; HD 3086
+Maharashtra,Nashik,Late,Irrigated,PBW 833; HD 2932
+Maharashtra,Nashik,Late,Restricted,CG 1029; PBW 752
+Maharashtra,Nashik,Very Late,Irrigated,HD 3298; HD 3271
+Maharashtra,Pune,Timely,Irrigated,PBW 343; HD 2967
+Maharashtra,Pune,Timely,Restricted,UAS 304; RAJ 4037
+Maharashtra,Pune,Timely,Rainfed,GW 322; HPW 349
+Maharashtra,Pune,Late,Irrigated,PBW 771; VL 892
+Maharashtra,Pune,Late,Restricted,PBW 771; PBW 833
+Maharashtra,Pune,Very Late,Irrigated,PBW 757; HI 1621
+Maharashtra,Kolhapur,Timely,Irrigated,PBW 343; GW 322
+Maharashtra,Kolhapur,Timely,Restricted,HS 562; HPW 349
+Maharashtra,Kolhapur,Timely,Rainfed,NIAW 917; PBW 343
+Maharashtra,Kolhapur,Late,Irrigated,VL 892; HD 2932
+Maharashtra,Kolhapur,Late,Restricted,PBW 833; PBW 771
+Maharashtra,Kolhapur,Very Late,Irrigated,HI 1621; HD 3271
+Maharashtra,Nagpur,Timely,Irrigated,HPW 349; HD 2967
+Maharashtra,Nagpur,Timely,Restricted,UAS 304; RAJ 4037
+Maharashtra,Nagpur,Timely,Rainfed,HD 3086; NIAW 917
+Maharashtra,Nagpur,Late,Irrigated,PBW 833; DBW 316
+Maharashtra,Nagpur,Late,Restricted,PBW 752; PBW 833
+Maharashtra,Nagpur,Very Late,Irrigated,HD 3271; PBW 757
+Maharashtra,Aurangabad,Timely,Irrigated,PBW 343; NIAW 917
+Maharashtra,Aurangabad,Timely,Restricted,Lok 1; GW 322
+Maharashtra,Aurangabad,Timely,Rainfed,UAS 304; HD 3086
+Maharashtra,Aurangabad,Late,Irrigated,PBW 752; CG 1029
+Maharashtra,Aurangabad,Late,Restricted,VL 892; HD 2932
+Maharashtra,Aurangabad,Very Late,Irrigated,PBW 757; HI 1621
+Maharashtra,Latur,Timely,Irrigated,GW 322; HD 3086
+Maharashtra,Latur,Timely,Restricted,GW 322; HD 3086
+Maharashtra,Latur,Timely,Rainfed,RAJ 4037; HD 3086
+Maharashtra,Latur,Late,Irrigated,PBW 752; CG 1029
+Maharashtra,Latur,Late,Restricted,PBW 771; VL 892
+Maharashtra,Latur,Very Late,Irrigated,PBW 757; HD 3271
+Maharashtra,Beed,Timely,Irrigated,HD 3086; GW 322
+Maharashtra,Beed,Timely,Restricted,GW 322; MACS 6478
+Maharashtra,Beed,Timely,Rainfed,HD 3086; NIAW 917
+Maharashtra,Beed,Late,Irrigated,CG 1029; PBW 771
+Maharashtra,Beed,Late,Restricted,PBW 833; PBW 752
+Maharashtra,Beed,Very Late,Irrigated,HD 3298; HI 1621
+Maharashtra,Ahmednagar,Timely,Irrigated,HD 3086; PBW 343
+Maharashtra,Ahmednagar,Timely,Restricted,PBW 343; RAJ 4037
+Maharashtra,Ahmednagar,Timely,Rainfed,Lok 1; HPW 349
+Maharashtra,Ahmednagar,Late,Irrigated,VL 892; PBW 833
+Maharashtra,Ahmednagar,Late,Restricted,PBW 833; PBW 752
+Maharashtra,Ahmednagar,Very Late,Irrigated,HD 3298; HI 1621
+Maharashtra,Amravati,Timely,Irrigated,NIAW 917; HD 3086
+Maharashtra,Amravati,Timely,Restricted,RAJ 4037; Lok 1
+Maharashtra,Amravati,Timely,Rainfed,UAS 304; NIAW 917
+Maharashtra,Amravati,Late,Irrigated,CG 1029; DBW 316
+Maharashtra,Amravati,Late,Restricted,PBW 771; CG 1029
+Maharashtra,Amravati,Very Late,Irrigated,HI 1621; HD 3271
+Maharashtra,Yavatmal,Timely,Irrigated,NIAW 917; HPW 349
+Maharashtra,Yavatmal,Timely,Restricted,RAJ 4037; NIAW 917
+Maharashtra,Yavatmal,Timely,Rainfed,Lok 1; HPW 349
+Maharashtra,Yavatmal,Late,Irrigated,PBW 771; VL 892
+Maharashtra,Yavatmal,Late,Restricted,DBW 316; PBW 752
+Maharashtra,Yavatmal,Very Late,Irrigated,PBW 757; HD 3271
+Karnataka,Dharwad,Timely,Irrigated,MACS 6478; HD 3086
+Karnataka,Dharwad,Timely,Restricted,GW 322; MACS 6478
+Karnataka,Dharwad,Timely,Rainfed,HD 2967; MACS 6478
+Karnataka,Dharwad,Late,Irrigated,CG 1029; DBW 316
+Karnataka,Dharwad,Late,Restricted,HD 2932; PBW 833
+Karnataka,Dharwad,Very Late,Irrigated,HD 3298; HI 1621
+Karnataka,Belgaum,Timely,Irrigated,RAJ 4037; PBW 343
+Karnataka,Belgaum,Timely,Restricted,PBW 343; MACS 6478
+Karnataka,Belgaum,Timely,Rainfed,PBW 343; Lok 1
+Karnataka,Belgaum,Late,Irrigated,VL 892; PBW 833
+Karnataka,Belgaum,Late,Restricted,HD 2932; PBW 833
+Karnataka,Belgaum,Very Late,Irrigated,HI 1621; HD 3298
+Karnataka,Bengaluru Rural,Timely,Irrigated,UAS 304; NIAW 917
+Karnataka,Bengaluru Rural,Timely,Restricted,HD 2967; HD 3086
+Karnataka,Bengaluru Rural,Timely,Rainfed,HD 3086; MACS 6478
+Karnataka,Bengaluru Rural,Late,Irrigated,CG 1029; DBW 316
+Karnataka,Bengaluru Rural,Late,Restricted,PBW 752; PBW 833
+Karnataka,Bengaluru Rural,Very Late,Irrigated,HD 3271; HI 1621
+Karnataka,Vijayapura,Timely,Irrigated,HS 562; RAJ 4037
+Karnataka,Vijayapura,Timely,Restricted,HS 562; Lok 1
+Karnataka,Vijayapura,Timely,Rainfed,HD 2967; HPW 349
+Karnataka,Vijayapura,Late,Irrigated,VL 892; DBW 316
+Karnataka,Vijayapura,Late,Restricted,PBW 771; DBW 316
+Karnataka,Vijayapura,Very Late,Irrigated,PBW 757; HD 3298
+Karnataka,Bagalkot,Timely,Irrigated,PBW 343; NIAW 917
+Karnataka,Bagalkot,Timely,Restricted,NIAW 917; MACS 6478
+Karnataka,Bagalkot,Timely,Rainfed,PBW 343; RAJ 4037
+Karnataka,Bagalkot,Late,Irrigated,DBW 316; PBW 771
+Karnataka,Bagalkot,Late,Restricted,DBW 316; PBW 771
+Karnataka,Bagalkot,Very Late,Irrigated,HD 3271; PBW 757
+Karnataka,Raichur,Timely,Irrigated,HS 562; RAJ 4037
+Karnataka,Raichur,Timely,Restricted,HS 562; HD 2967
+Karnataka,Raichur,Timely,Rainfed,PBW 343; HD 3086
+Karnataka,Raichur,Late,Irrigated,DBW 316; CG 1029
+Karnataka,Raichur,Late,Restricted,DBW 316; CG 1029
+Karnataka,Raichur,Very Late,Irrigated,PBW 757; HD 3298
+Karnataka,Haveri,Timely,Irrigated,Lok 1; HS 562
+Karnataka,Haveri,Timely,Restricted,HD 2967; GW 322
+Karnataka,Haveri,Timely,Rainfed,RAJ 4037; NIAW 917
+Karnataka,Haveri,Late,Irrigated,PBW 833; PBW 771
+Karnataka,Haveri,Late,Restricted,DBW 316; VL 892
+Karnataka,Haveri,Very Late,Irrigated,HD 3298; PBW 757
+Karnataka,Ballari,Timely,Irrigated,GW 322; Lok 1
+Karnataka,Ballari,Timely,Restricted,PBW 343; NIAW 917
+Karnataka,Ballari,Timely,Rainfed,RAJ 4037; MACS 6478
+Karnataka,Ballari,Late,Irrigated,PBW 771; DBW 316
+Karnataka,Ballari,Late,Restricted,PBW 833; HD 2932
+Karnataka,Ballari,Very Late,Irrigated,HD 3271; PBW 757
+Andhra Pradesh,Kurnool,Timely,Irrigated,PBW 343; GW 322
+Andhra Pradesh,Kurnool,Timely,Restricted,HPW 349; Lok 1
+Andhra Pradesh,Kurnool,Timely,Rainfed,RAJ 4037; HD 3086
+Andhra Pradesh,Kurnool,Late,Irrigated,PBW 752; PBW 833
+Andhra Pradesh,Kurnool,Late,Restricted,CG 1029; VL 892
+Andhra Pradesh,Kurnool,Very Late,Irrigated,HD 3271; PBW 757
+Andhra Pradesh,Anantapur,Timely,Irrigated,UAS 304; HS 562
+Andhra Pradesh,Anantapur,Timely,Restricted,HS 562; HD 3086
+Andhra Pradesh,Anantapur,Timely,Rainfed,GW 322; Lok 1
+Andhra Pradesh,Anantapur,Late,Irrigated,CG 1029; PBW 771
+Andhra Pradesh,Anantapur,Late,Restricted,HD 2932; PBW 752
+Andhra Pradesh,Anantapur,Very Late,Irrigated,HD 3298; PBW 757
+Andhra Pradesh,Kadapa,Timely,Irrigated,HPW 349; NIAW 917
+Andhra Pradesh,Kadapa,Timely,Restricted,GW 322; HS 562
+Andhra Pradesh,Kadapa,Timely,Rainfed,UAS 304; MACS 6478
+Andhra Pradesh,Kadapa,Late,Irrigated,HD 2932; PBW 752
+Andhra Pradesh,Kadapa,Late,Restricted,PBW 833; CG 1029
+Andhra Pradesh,Kadapa,Very Late,Irrigated,HD 3298; PBW 757
+Andhra Pradesh,Guntur,Timely,Irrigated,PBW 343; MACS 6478
+Andhra Pradesh,Guntur,Timely,Restricted,HD 2967; MACS 6478
+Andhra Pradesh,Guntur,Timely,Rainfed,HS 562; PBW 343
+Andhra Pradesh,Guntur,Late,Irrigated,VL 892; PBW 833
+Andhra Pradesh,Guntur,Late,Restricted,HD 2932; PBW 833
+Andhra Pradesh,Guntur,Very Late,Irrigated,HD 3271; HI 1621
+Andhra Pradesh,Nellore,Timely,Irrigated,HD 3086; Lok 1
+Andhra Pradesh,Nellore,Timely,Restricted,NIAW 917; HD 2967
+Andhra Pradesh,Nellore,Timely,Rainfed,Lok 1; GW 322
+Andhra Pradesh,Nellore,Late,Irrigated,DBW 316; HD 2932
+Andhra Pradesh,Nellore,Late,Restricted,PBW 833; DBW 316
+Andhra Pradesh,Nellore,Very Late,Irrigated,HD 3271; HD 3298
+Telangana,Nizamabad,Timely,Irrigated,HS 562; HD 2967
+Telangana,Nizamabad,Timely,Restricted,HS 562; UAS 304
+Telangana,Nizamabad,Timely,Rainfed,HPW 349; HD 2967
+Telangana,Nizamabad,Late,Irrigated,PBW 833; HD 2932
+Telangana,Nizamabad,Late,Restricted,HD 2932; PBW 752
+Telangana,Nizamabad,Very Late,Irrigated,PBW 757; HD 3298
+Telangana,Karimnagar,Timely,Irrigated,PBW 343; HPW 349
+Telangana,Karimnagar,Timely,Restricted,Lok 1; MACS 6478
+Telangana,Karimnagar,Timely,Rainfed,UAS 304; GW 322
+Telangana,Karimnagar,Late,Irrigated,PBW 833; DBW 316
+Telangana,Karimnagar,Late,Restricted,DBW 316; PBW 833
+Telangana,Karimnagar,Very Late,Irrigated,HD 3271; PBW 757
+Telangana,Warangal Rural,Timely,Irrigated,MACS 6478; HD 3086
+Telangana,Warangal Rural,Timely,Restricted,MACS 6478; PBW 343
+Telangana,Warangal Rural,Timely,Rainfed,UAS 304; PBW 343
+Telangana,Warangal Rural,Late,Irrigated,HD 2932; PBW 752
+Telangana,Warangal Rural,Late,Restricted,DBW 316; VL 892
+Telangana,Warangal Rural,Very Late,Irrigated,HD 3298; HI 1621
+Telangana,Mahbubnagar,Timely,Irrigated,NIAW 917; PBW 343
+Telangana,Mahbubnagar,Timely,Restricted,NIAW 917; UAS 304
+Telangana,Mahbubnagar,Timely,Rainfed,Lok 1; MACS 6478
+Telangana,Mahbubnagar,Late,Irrigated,VL 892; DBW 316
+Telangana,Mahbubnagar,Late,Restricted,PBW 833; VL 892
+Telangana,Mahbubnagar,Very Late,Irrigated,HD 3271; HI 1621
+Telangana,Khammam,Timely,Irrigated,Lok 1; HD 3086
+Telangana,Khammam,Timely,Restricted,HD 2967; PBW 343
+Telangana,Khammam,Timely,Rainfed,HD 2967; HD 3086
+Telangana,Khammam,Late,Irrigated,DBW 316; CG 1029
+Telangana,Khammam,Late,Restricted,CG 1029; DBW 316
+Telangana,Khammam,Very Late,Irrigated,HD 3298; PBW 757
+Goa,North Goa,Timely,Irrigated,PBW 343; MACS 6478
+Goa,North Goa,Timely,Restricted,MACS 6478; RAJ 4037
+Goa,North Goa,Timely,Rainfed,MACS 6478; HD 3086
+Goa,North Goa,Late,Irrigated,PBW 752; VL 892
+Goa,North Goa,Late,Restricted,VL 892; PBW 833
+Goa,North Goa,Very Late,Irrigated,PBW 757; HD 3271
+Goa,South Goa,Timely,Irrigated,HD 2967; HD 3086
+Goa,South Goa,Timely,Restricted,HD 3086; GW 322
+Goa,South Goa,Timely,Rainfed,GW 322; PBW 343
+Goa,South Goa,Late,Irrigated,DBW 316; PBW 771
+Goa,South Goa,Late,Restricted,HD 2932; PBW 752
+Goa,South Goa,Very Late,Irrigated,HD 3271; HI 1621
+Tamil Nadu,Coimbatore,Timely,Irrigated,MACS 6478; GW 322
+Tamil Nadu,Coimbatore,Timely,Restricted,UAS 304; Lok 1
+Tamil Nadu,Coimbatore,Timely,Rainfed,MACS 6478; PBW 343
+Tamil Nadu,Coimbatore,Late,Irrigated,CG 1029; HD 2932
+Tamil Nadu,Coimbatore,Late,Restricted,PBW 833; CG 1029
+Tamil Nadu,Coimbatore,Very Late,Irrigated,HD 3271; PBW 757
+Tamil Nadu,Salem,Timely,Irrigated,HD 2967; Lok 1
+Tamil Nadu,Salem,Timely,Restricted,GW 322; HD 2967
+Tamil Nadu,Salem,Timely,Rainfed,GW 322; HD 2967
+Tamil Nadu,Salem,Late,Irrigated,PBW 752; PBW 833
+Tamil Nadu,Salem,Late,Restricted,VL 892; DBW 316
+Tamil Nadu,Salem,Very Late,Irrigated,PBW 757; HD 3298
+Tamil Nadu,Madurai,Timely,Irrigated,HD 2967; Lok 1
+Tamil Nadu,Madurai,Timely,Restricted,HD 2967; HD 3086
+Tamil Nadu,Madurai,Timely,Rainfed,PBW 343; HD 3086
+Tamil Nadu,Madurai,Late,Irrigated,CG 1029; HD 2932
+Tamil Nadu,Madurai,Late,Restricted,PBW 752; DBW 316
+Tamil Nadu,Madurai,Very Late,Irrigated,HD 3298; PBW 757
+Tamil Nadu,Theni,Timely,Irrigated,NIAW 917; MACS 6478
+Tamil Nadu,Theni,Timely,Restricted,MACS 6478; HPW 349
+Tamil Nadu,Theni,Timely,Rainfed,HS 562; HPW 349
+Tamil Nadu,Theni,Late,Irrigated,HD 2932; DBW 316
+Tamil Nadu,Theni,Late,Restricted,CG 1029; HD 2932
+Tamil Nadu,Theni,Very Late,Irrigated,HI 1621; HD 3298
+Tamil Nadu,Tirupur,Timely,Irrigated,MACS 6478; Lok 1
+Tamil Nadu,Tirupur,Timely,Restricted,Lok 1; MACS 6478
+Tamil Nadu,Tirupur,Timely,Rainfed,HD 3086; HS 562
+Tamil Nadu,Tirupur,Late,Irrigated,PBW 833; VL 892
+Tamil Nadu,Tirupur,Late,Restricted,VL 892; PBW 752
+Tamil Nadu,Tirupur,Very Late,Irrigated,HD 3271; HI 1621
+Jammu & Kashmir (hills),Baramulla,Timely,Irrigated,GW 322; HD 2967
+Jammu & Kashmir (hills),Baramulla,Timely,Restricted,HD 3086; PBW 343
+Jammu & Kashmir (hills),Baramulla,Timely,Rainfed,HD 3086; Lok 1
+Jammu & Kashmir (hills),Baramulla,Late,Irrigated,CG 1029; DBW 316
+Jammu & Kashmir (hills),Baramulla,Late,Restricted,CG 1029; VL 892
+Jammu & Kashmir (hills),Baramulla,Very Late,Irrigated,HD 3298; PBW 757
+Jammu & Kashmir (hills),Kupwara,Timely,Irrigated,HS 562; PBW 343
+Jammu & Kashmir (hills),Kupwara,Timely,Restricted,UAS 304; RAJ 4037
+Jammu & Kashmir (hills),Kupwara,Timely,Rainfed,PBW 343; UAS 304
+Jammu & Kashmir (hills),Kupwara,Late,Irrigated,CG 1029; HD 2932
+Jammu & Kashmir (hills),Kupwara,Late,Restricted,PBW 771; VL 892
+Jammu & Kashmir (hills),Kupwara,Very Late,Irrigated,HI 1621; HD 3298
+Himachal Pradesh (hills),Shimla,Timely,Irrigated,MACS 6478; UAS 304
+Himachal Pradesh (hills),Shimla,Timely,Restricted,HPW 349; PBW 343
+Himachal Pradesh (hills),Shimla,Timely,Rainfed,RAJ 4037; GW 322
+Himachal Pradesh (hills),Shimla,Late,Irrigated,PBW 833; DBW 316
+Himachal Pradesh (hills),Shimla,Late,Restricted,CG 1029; VL 892
+Himachal Pradesh (hills),Shimla,Very Late,Irrigated,HI 1621; HD 3271
+Himachal Pradesh (hills),Kullu,Timely,Irrigated,HS 562; HPW 349
+Himachal Pradesh (hills),Kullu,Timely,Restricted,NIAW 917; HD 3086
+Himachal Pradesh (hills),Kullu,Timely,Rainfed,RAJ 4037; PBW 343
+Himachal Pradesh (hills),Kullu,Late,Irrigated,CG 1029; PBW 771
+Himachal Pradesh (hills),Kullu,Late,Restricted,PBW 771; PBW 752
+Himachal Pradesh (hills),Kullu,Very Late,Irrigated,HD 3298; PBW 757
+Uttarakhand (hills),Almora,Timely,Irrigated,NIAW 917; HPW 349
+Uttarakhand (hills),Almora,Timely,Restricted,MACS 6478; HD 3086
+Uttarakhand (hills),Almora,Timely,Rainfed,HD 2967; RAJ 4037
+Uttarakhand (hills),Almora,Late,Irrigated,HD 2932; CG 1029
+Uttarakhand (hills),Almora,Late,Restricted,DBW 316; CG 1029
+Uttarakhand (hills),Almora,Very Late,Irrigated,HD 3298; HD 3271
+Uttarakhand (hills),Pithoragarh,Timely,Irrigated,RAJ 4037; NIAW 917
+Uttarakhand (hills),Pithoragarh,Timely,Restricted,NIAW 917; Lok 1
+Uttarakhand (hills),Pithoragarh,Timely,Rainfed,HPW 349; MACS 6478
+Uttarakhand (hills),Pithoragarh,Late,Irrigated,HD 2932; PBW 771
+Uttarakhand (hills),Pithoragarh,Late,Restricted,PBW 833; CG 1029
+Uttarakhand (hills),Pithoragarh,Very Late,Irrigated,PBW 757; HI 1621
+Sikkim,Gangtok,Timely,Irrigated,HD 2967; Lok 1
+Sikkim,Gangtok,Timely,Restricted,Lok 1; RAJ 4037
+Sikkim,Gangtok,Timely,Rainfed,HD 3086; GW 322
+Sikkim,Gangtok,Late,Irrigated,PBW 833; PBW 771
+Sikkim,Gangtok,Late,Restricted,VL 892; CG 1029
+Sikkim,Gangtok,Very Late,Irrigated,PBW 757; HD 3271
+Sikkim,Mangan,Timely,Irrigated,Lok 1; NIAW 917
+Sikkim,Mangan,Timely,Restricted,GW 322; NIAW 917
+Sikkim,Mangan,Timely,Rainfed,HD 3086; NIAW 917
+Sikkim,Mangan,Late,Irrigated,DBW 316; PBW 833
+Sikkim,Mangan,Late,Restricted,PBW 833; CG 1029
+Sikkim,Mangan,Very Late,Irrigated,HD 3298; HI 1621
+West Bengal (hills),Darjeeling,Timely,Irrigated,HD 3086; MACS 6478
+West Bengal (hills),Darjeeling,Timely,Restricted,UAS 304; MACS 6478
+West Bengal (hills),Darjeeling,Timely,Rainfed,MACS 6478; HPW 349
+West Bengal (hills),Darjeeling,Late,Irrigated,DBW 316; VL 892
+West Bengal (hills),Darjeeling,Late,Restricted,PBW 771; HD 2932
+West Bengal (hills),Darjeeling,Very Late,Irrigated,HD 3298; PBW 757
