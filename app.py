@@ -124,4 +124,5 @@ with gr.Blocks(css=css) as demo:
         ask_button.click(fn=show_loading, inputs=user_prompt, outputs=openai_output)
         ask_button.click(fn=ask_openai, inputs=user_prompt, outputs=openai_output)
 
-demo.launch()
+demo.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)))
+
