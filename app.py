@@ -6,7 +6,7 @@ import openai
 import os
 
 # ------------------ ENVIRONMENT VARIABLE (OpenAI API Key) ------------------
-openai.api_key = "sk-proj-your_key_here"  # <== Paste your OpenAI key here
+openai.api_key = "OPENAI_API_KEY"  # <== Paste your OpenAI key here
 
 # ------------------ DATA LOADING ------------------
 CSVFILE = "wheat_varieties_huge.csv"
